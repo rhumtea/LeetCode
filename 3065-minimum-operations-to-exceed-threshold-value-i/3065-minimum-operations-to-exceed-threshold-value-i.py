@@ -1,8 +1,8 @@
 class Solution:
     def minOperations(self, nums: List[int], k: int) -> int:
-        res = 0
+        count = 0
         for i in range(len(nums)):
             if nums[i] < k:
-                res += 1
-        return res
+                count += 1
+        return count
                 
