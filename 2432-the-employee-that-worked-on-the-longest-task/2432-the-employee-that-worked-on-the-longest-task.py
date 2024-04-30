@@ -4,7 +4,6 @@ class Solution:
         smallID = logs[0][0]
         for i in range(1, len(logs)):
             temp = logs[i][1] - logs[i-1][1]
-            print(temp)
             if maxTime < temp:
                 maxTime = temp
                 smallID = logs[i][0]
