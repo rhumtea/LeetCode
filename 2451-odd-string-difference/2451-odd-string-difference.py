@@ -10,7 +10,6 @@ class Solution:
                 thisdict[temp] = [words[i]]
             else:
                 thisdict[temp].append(words[i]) 
-        print(thisdict)
         for i in thisdict:
             if len(thisdict[i]) == 1:
                 return thisdict[i][0]  
