@@ -10,3 +10,9 @@ class Solution:
                 right -= 1
                 sum_right += right
         return left if sum_left == sum_right else -1
+        # s = (n*(n+1)) // 2
+        # m = floor(sqrt(s))
+        # if (m*m == s):
+        #     return int(m)
+        # else:
+        #     return -1
