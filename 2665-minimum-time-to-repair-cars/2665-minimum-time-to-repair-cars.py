@@ -7,7 +7,7 @@ class Solution:
             return n <= 0
         l, r = 0, 100*cars*cars
         while l <= r:
-            mid = (l + r) // 2
+            mid = (l+r)//2
             if canRepair(mid):
                 r = mid - 1
             else:
