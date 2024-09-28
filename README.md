@@ -10,6 +10,7 @@
 | [2665-minimum-time-to-repair-cars](https://github.com/rhumtea/LeetCode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/rhumtea/LeetCode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2881-split-strings-by-separator](https://github.com/rhumtea/LeetCode/tree/master/2881-split-strings-by-separator) |
+| [2902-max-pair-sum-in-an-array](https://github.com/rhumtea/LeetCode/tree/master/2902-max-pair-sum-in-an-array) |
 ## Math
 |  |
 | ------- |
@@ -20,6 +21,7 @@
 |  |
 | ------- |
 | [2634-minimum-common-value](https://github.com/rhumtea/LeetCode/tree/master/2634-minimum-common-value) |
+| [2902-max-pair-sum-in-an-array](https://github.com/rhumtea/LeetCode/tree/master/2902-max-pair-sum-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
