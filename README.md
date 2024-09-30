@@ -46,8 +46,13 @@
 | [2881-split-strings-by-separator](https://github.com/rhumtea/LeetCode/tree/master/2881-split-strings-by-separator) |
 | [2886-faulty-keyboard](https://github.com/rhumtea/LeetCode/tree/master/2886-faulty-keyboard) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/rhumtea/LeetCode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
+| [3019-furthest-point-from-origin](https://github.com/rhumtea/LeetCode/tree/master/3019-furthest-point-from-origin) |
 ## Sorting
 |  |
 | ------- |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/rhumtea/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+## Counting
+|  |
+| ------- |
+| [3019-furthest-point-from-origin](https://github.com/rhumtea/LeetCode/tree/master/3019-furthest-point-from-origin) |
 <!---LeetCode Topics End-->
