@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [2600-maximum-tastiness-of-candy-basket](https://github.com/rhumtea/LeetCode/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/rhumtea/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2634-minimum-common-value](https://github.com/rhumtea/LeetCode/tree/master/2634-minimum-common-value) |
 | [2639-separate-the-digits-in-an-array](https://github.com/rhumtea/LeetCode/tree/master/2639-separate-the-digits-in-an-array) |
@@ -32,6 +33,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [2600-maximum-tastiness-of-candy-basket](https://github.com/rhumtea/LeetCode/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [2634-minimum-common-value](https://github.com/rhumtea/LeetCode/tree/master/2634-minimum-common-value) |
 | [2665-minimum-time-to-repair-cars](https://github.com/rhumtea/LeetCode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/rhumtea/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -50,9 +52,14 @@
 ## Sorting
 |  |
 | ------- |
+| [2600-maximum-tastiness-of-candy-basket](https://github.com/rhumtea/LeetCode/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/rhumtea/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Counting
 |  |
 | ------- |
 | [3019-furthest-point-from-origin](https://github.com/rhumtea/LeetCode/tree/master/3019-furthest-point-from-origin) |
+## Greedy
+|  |
+| ------- |
+| [2600-maximum-tastiness-of-candy-basket](https://github.com/rhumtea/LeetCode/tree/master/2600-maximum-tastiness-of-candy-basket) |
 <!---LeetCode Topics End-->
