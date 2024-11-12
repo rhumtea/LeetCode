@@ -15,6 +15,7 @@
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/rhumtea/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/rhumtea/LeetCode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3034-points-that-intersect-with-cars](https://github.com/rhumtea/LeetCode/tree/master/3034-points-that-intersect-with-cars) |
+| [3045-minimum-right-shifts-to-sort-the-array](https://github.com/rhumtea/LeetCode/tree/master/3045-minimum-right-shifts-to-sort-the-array) |
 ## Math
 |  |
 | ------- |
