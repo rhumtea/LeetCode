@@ -14,6 +14,7 @@
 | [2902-max-pair-sum-in-an-array](https://github.com/rhumtea/LeetCode/tree/master/2902-max-pair-sum-in-an-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/rhumtea/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/rhumtea/LeetCode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
+| [3034-points-that-intersect-with-cars](https://github.com/rhumtea/LeetCode/tree/master/3034-points-that-intersect-with-cars) |
 ## Math
 |  |
 | ------- |
@@ -26,6 +27,7 @@
 | ------- |
 | [2634-minimum-common-value](https://github.com/rhumtea/LeetCode/tree/master/2634-minimum-common-value) |
 | [2902-max-pair-sum-in-an-array](https://github.com/rhumtea/LeetCode/tree/master/2902-max-pair-sum-in-an-array) |
+| [3034-points-that-intersect-with-cars](https://github.com/rhumtea/LeetCode/tree/master/3034-points-that-intersect-with-cars) |
 ## Two Pointers
 |  |
 | ------- |
@@ -67,4 +69,8 @@
 |  |
 | ------- |
 | [2998-count-symmetric-integers](https://github.com/rhumtea/LeetCode/tree/master/2998-count-symmetric-integers) |
+## Prefix Sum
+|  |
+| ------- |
+| [3034-points-that-intersect-with-cars](https://github.com/rhumtea/LeetCode/tree/master/3034-points-that-intersect-with-cars) |
 <!---LeetCode Topics End-->
