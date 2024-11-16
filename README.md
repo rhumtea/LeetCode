@@ -18,6 +18,7 @@
 | [3044-minimum-operations-to-collect-elements](https://github.com/rhumtea/LeetCode/tree/master/3044-minimum-operations-to-collect-elements) |
 | [3045-minimum-right-shifts-to-sort-the-array](https://github.com/rhumtea/LeetCode/tree/master/3045-minimum-right-shifts-to-sort-the-array) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/rhumtea/LeetCode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
+| [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/rhumtea/LeetCode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 ## Math
 |  |
 | ------- |
