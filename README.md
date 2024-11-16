@@ -24,6 +24,7 @@
 | [2630-alternating-digit-sum](https://github.com/rhumtea/LeetCode/tree/master/2630-alternating-digit-sum) |
 | [2955-account-balance-after-rounded-purchase](https://github.com/rhumtea/LeetCode/tree/master/2955-account-balance-after-rounded-purchase) |
 | [2998-count-symmetric-integers](https://github.com/rhumtea/LeetCode/tree/master/2998-count-symmetric-integers) |
+| [3055-maximum-odd-binary-number](https://github.com/rhumtea/LeetCode/tree/master/3055-maximum-odd-binary-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -54,6 +55,7 @@
 | [2886-faulty-keyboard](https://github.com/rhumtea/LeetCode/tree/master/2886-faulty-keyboard) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/rhumtea/LeetCode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3019-furthest-point-from-origin](https://github.com/rhumtea/LeetCode/tree/master/3019-furthest-point-from-origin) |
+| [3055-maximum-odd-binary-number](https://github.com/rhumtea/LeetCode/tree/master/3055-maximum-odd-binary-number) |
 ## Sorting
 |  |
 | ------- |
@@ -67,6 +69,7 @@
 |  |
 | ------- |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/rhumtea/LeetCode/tree/master/2600-maximum-tastiness-of-candy-basket) |
+| [3055-maximum-odd-binary-number](https://github.com/rhumtea/LeetCode/tree/master/3055-maximum-odd-binary-number) |
 ## Enumeration
 |  |
 | ------- |
