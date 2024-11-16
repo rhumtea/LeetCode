@@ -15,6 +15,7 @@
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/rhumtea/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/rhumtea/LeetCode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3034-points-that-intersect-with-cars](https://github.com/rhumtea/LeetCode/tree/master/3034-points-that-intersect-with-cars) |
+| [3044-minimum-operations-to-collect-elements](https://github.com/rhumtea/LeetCode/tree/master/3044-minimum-operations-to-collect-elements) |
 | [3045-minimum-right-shifts-to-sort-the-array](https://github.com/rhumtea/LeetCode/tree/master/3045-minimum-right-shifts-to-sort-the-array) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/rhumtea/LeetCode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 ## Math
@@ -31,6 +32,7 @@
 | [2634-minimum-common-value](https://github.com/rhumtea/LeetCode/tree/master/2634-minimum-common-value) |
 | [2902-max-pair-sum-in-an-array](https://github.com/rhumtea/LeetCode/tree/master/2902-max-pair-sum-in-an-array) |
 | [3034-points-that-intersect-with-cars](https://github.com/rhumtea/LeetCode/tree/master/3034-points-that-intersect-with-cars) |
+| [3044-minimum-operations-to-collect-elements](https://github.com/rhumtea/LeetCode/tree/master/3044-minimum-operations-to-collect-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -81,5 +83,6 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [3044-minimum-operations-to-collect-elements](https://github.com/rhumtea/LeetCode/tree/master/3044-minimum-operations-to-collect-elements) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/rhumtea/LeetCode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 <!---LeetCode Topics End-->
