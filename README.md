@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/rhumtea/LeetCode/tree/master/0078-subsets) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/rhumtea/LeetCode/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/rhumtea/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2634-minimum-common-value](https://github.com/rhumtea/LeetCode/tree/master/2634-minimum-common-value) |
@@ -84,6 +85,11 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/rhumtea/LeetCode/tree/master/0078-subsets) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/rhumtea/LeetCode/tree/master/3044-minimum-operations-to-collect-elements) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/rhumtea/LeetCode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/rhumtea/LeetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
