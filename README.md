@@ -86,10 +86,15 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/rhumtea/LeetCode/tree/master/0078-subsets) |
+| [0190-reverse-bits](https://github.com/rhumtea/LeetCode/tree/master/0190-reverse-bits) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/rhumtea/LeetCode/tree/master/3044-minimum-operations-to-collect-elements) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/rhumtea/LeetCode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 ## Backtracking
 |  |
 | ------- |
 | [0078-subsets](https://github.com/rhumtea/LeetCode/tree/master/0078-subsets) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/rhumtea/LeetCode/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
