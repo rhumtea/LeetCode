@@ -107,4 +107,12 @@
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/rhumtea/LeetCode/tree/master/0190-reverse-bits) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/rhumtea/LeetCode/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/rhumtea/LeetCode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
