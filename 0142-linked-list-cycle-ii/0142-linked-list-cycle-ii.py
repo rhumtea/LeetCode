@@ -6,7 +6,7 @@
 
 class Solution:
     def detectCycle(self, head: Optional[ListNode]) -> Optional[ListNode]:
-        # if head == None: return None
+        if head == None: return None
         s = f = head
         while f and f.next:
             s = s.next
