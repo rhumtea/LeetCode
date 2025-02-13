@@ -6,14 +6,13 @@
 
 class Solution:
     def detectCycle(self, head: Optional[ListNode]) -> Optional[ListNode]:
-        if head == None: return None
-        s = f = head
+        # Find 1st meet which is in cycle
+        s = f = res = head
         while f and f.next:
-            s = s.next
-            f = f.next.next
+            s, f = s.next, f.next.next
             if s == f:
-                s = head
-                while s != f:
-                    s = s.next
-                    f = f.next
-                return s
+                # Find 2nd meet which is result
+                while s != res:
+                    s, res = s.next, res.next
+                return res
+        
