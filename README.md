@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/rhumtea/LeetCode/tree/master/0078-subsets) |
+| [0228-summary-ranges](https://github.com/rhumtea/LeetCode/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/rhumtea/LeetCode/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/rhumtea/LeetCode/tree/master/0645-set-mismatch) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/rhumtea/LeetCode/tree/master/2600-maximum-tastiness-of-candy-basket) |
