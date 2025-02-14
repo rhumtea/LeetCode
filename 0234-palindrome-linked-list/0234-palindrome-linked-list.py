@@ -13,8 +13,8 @@ class Solution:
             head.next = d
             d = head
             head = s
-        if f: s = s.next
         a, b = d, s
+        if f: b = b.next
         while a and b:
             if a.val == b.val: a, b = a.next, b.next
             else: return False
