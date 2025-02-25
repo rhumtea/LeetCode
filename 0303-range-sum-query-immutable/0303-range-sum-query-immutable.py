@@ -2,6 +2,7 @@ class NumArray:
 
     def __init__(self, nums: List[int]):
         # self.nums = nums # This one is only ref to nums
+        # prefix only runs one time with init.
         prefix = [0]
         for i in nums:
             prefix.append(prefix[-1] + i)
