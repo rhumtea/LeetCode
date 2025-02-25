@@ -7,6 +7,7 @@
 | [0078-subsets](https://github.com/rhumtea/LeetCode/tree/master/0078-subsets) |
 | [0228-summary-ranges](https://github.com/rhumtea/LeetCode/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/rhumtea/LeetCode/tree/master/0268-missing-number) |
+| [0303-range-sum-query-immutable](https://github.com/rhumtea/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0645-set-mismatch](https://github.com/rhumtea/LeetCode/tree/master/0645-set-mismatch) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/rhumtea/LeetCode/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/rhumtea/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -100,6 +101,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/rhumtea/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [3034-points-that-intersect-with-cars](https://github.com/rhumtea/LeetCode/tree/master/3034-points-that-intersect-with-cars) |
 ## Bit Manipulation
 |  |
@@ -145,4 +147,8 @@
 | ------- |
 | [0143-reorder-list](https://github.com/rhumtea/LeetCode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/rhumtea/LeetCode/tree/master/0234-palindrome-linked-list) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/rhumtea/LeetCode/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
