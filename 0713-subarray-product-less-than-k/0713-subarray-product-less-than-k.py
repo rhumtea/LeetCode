@@ -8,7 +8,7 @@ class Solution:
             w *= nums[r]
             print(w)
             while w >= k:
-                w /= nums[l]
+                w //= nums[l]
                 l += 1
             res += r-l+1
         return res
