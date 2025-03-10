@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/rhumtea/LeetCode/tree/master/0078-subsets) |
+| [0209-minimum-size-subarray-sum](https://github.com/rhumtea/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0228-summary-ranges](https://github.com/rhumtea/LeetCode/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/rhumtea/LeetCode/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/rhumtea/LeetCode/tree/master/0303-range-sum-query-immutable) |
@@ -62,6 +63,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/rhumtea/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/rhumtea/LeetCode/tree/master/0268-missing-number) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/rhumtea/LeetCode/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [2634-minimum-common-value](https://github.com/rhumtea/LeetCode/tree/master/2634-minimum-common-value) |
@@ -103,6 +105,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/rhumtea/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/rhumtea/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/rhumtea/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [3034-points-that-intersect-with-cars](https://github.com/rhumtea/LeetCode/tree/master/3034-points-that-intersect-with-cars) |
@@ -154,4 +157,8 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/rhumtea/LeetCode/tree/master/0303-range-sum-query-immutable) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/rhumtea/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
