@@ -11,6 +11,7 @@
 | [0268-missing-number](https://github.com/rhumtea/LeetCode/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/rhumtea/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/rhumtea/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/rhumtea/LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0560-subarray-sum-equals-k](https://github.com/rhumtea/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/rhumtea/LeetCode/tree/master/0645-set-mismatch) |
 | [0713-subarray-product-less-than-k](https://github.com/rhumtea/LeetCode/tree/master/0713-subarray-product-less-than-k) |
@@ -209,6 +210,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/rhumtea/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/rhumtea/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/rhumtea/LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [1304-longest-happy-string](https://github.com/rhumtea/LeetCode/tree/master/1304-longest-happy-string) |
 | [1762-furthest-building-you-can-reach](https://github.com/rhumtea/LeetCode/tree/master/1762-furthest-building-you-can-reach) |
 | [1962-single-threaded-cpu](https://github.com/rhumtea/LeetCode/tree/master/1962-single-threaded-cpu) |
