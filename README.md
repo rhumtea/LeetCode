@@ -22,6 +22,7 @@
 | [1016-subarray-sums-divisible-by-k](https://github.com/rhumtea/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/rhumtea/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/rhumtea/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1582-design-browser-history](https://github.com/rhumtea/LeetCode/tree/master/1582-design-browser-history) |
 | [1762-furthest-building-you-can-reach](https://github.com/rhumtea/LeetCode/tree/master/1762-furthest-building-you-can-reach) |
 | [1962-single-threaded-cpu](https://github.com/rhumtea/LeetCode/tree/master/1962-single-threaded-cpu) |
 | [2329-maximum-product-after-k-increments](https://github.com/rhumtea/LeetCode/tree/master/2329-maximum-product-after-k-increments) |
@@ -189,6 +190,7 @@
 | [0234-palindrome-linked-list](https://github.com/rhumtea/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/rhumtea/LeetCode/tree/master/0328-odd-even-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/rhumtea/LeetCode/tree/master/0908-middle-of-the-linked-list) |
+| [1582-design-browser-history](https://github.com/rhumtea/LeetCode/tree/master/1582-design-browser-history) |
 ## Recursion
 |  |
 | ------- |
@@ -208,10 +210,12 @@
 | [0735-asteroid-collision](https://github.com/rhumtea/LeetCode/tree/master/0735-asteroid-collision) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/rhumtea/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/rhumtea/LeetCode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
+| [1582-design-browser-history](https://github.com/rhumtea/LeetCode/tree/master/1582-design-browser-history) |
 ## Design
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/rhumtea/LeetCode/tree/master/0303-range-sum-query-immutable) |
+| [1582-design-browser-history](https://github.com/rhumtea/LeetCode/tree/master/1582-design-browser-history) |
 ## Sliding Window
 |  |
 | ------- |
@@ -240,4 +244,12 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/rhumtea/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1582-design-browser-history](https://github.com/rhumtea/LeetCode/tree/master/1582-design-browser-history) |
+## Data Stream
+|  |
+| ------- |
+| [1582-design-browser-history](https://github.com/rhumtea/LeetCode/tree/master/1582-design-browser-history) |
 <!---LeetCode Topics End-->
