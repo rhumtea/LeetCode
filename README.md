@@ -17,6 +17,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/rhumtea/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/rhumtea/LeetCode/tree/master/0645-set-mismatch) |
 | [0713-subarray-product-less-than-k](https://github.com/rhumtea/LeetCode/tree/master/0713-subarray-product-less-than-k) |
+| [0729-my-calendar-i](https://github.com/rhumtea/LeetCode/tree/master/0729-my-calendar-i) |
 | [0735-asteroid-collision](https://github.com/rhumtea/LeetCode/tree/master/0735-asteroid-collision) |
 | [0907-koko-eating-bananas](https://github.com/rhumtea/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0940-fruit-into-baskets](https://github.com/rhumtea/LeetCode/tree/master/0940-fruit-into-baskets) |
@@ -91,6 +92,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/rhumtea/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/rhumtea/LeetCode/tree/master/0268-missing-number) |
 | [0713-subarray-product-less-than-k](https://github.com/rhumtea/LeetCode/tree/master/0713-subarray-product-less-than-k) |
+| [0729-my-calendar-i](https://github.com/rhumtea/LeetCode/tree/master/0729-my-calendar-i) |
 | [0907-koko-eating-bananas](https://github.com/rhumtea/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/rhumtea/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1321-get-equal-substrings-within-budget](https://github.com/rhumtea/LeetCode/tree/master/1321-get-equal-substrings-within-budget) |
@@ -217,6 +219,7 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/rhumtea/LeetCode/tree/master/0303-range-sum-query-immutable) |
+| [0729-my-calendar-i](https://github.com/rhumtea/LeetCode/tree/master/0729-my-calendar-i) |
 | [1582-design-browser-history](https://github.com/rhumtea/LeetCode/tree/master/1582-design-browser-history) |
 ## Sliding Window
 |  |
@@ -254,4 +257,12 @@
 |  |
 | ------- |
 | [1582-design-browser-history](https://github.com/rhumtea/LeetCode/tree/master/1582-design-browser-history) |
+## Segment Tree
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/rhumtea/LeetCode/tree/master/0729-my-calendar-i) |
+## Ordered Set
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/rhumtea/LeetCode/tree/master/0729-my-calendar-i) |
 <!---LeetCode Topics End-->
