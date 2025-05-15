@@ -50,6 +50,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/rhumtea/LeetCode/tree/master/0009-palindrome-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/rhumtea/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0227-basic-calculator-ii](https://github.com/rhumtea/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0268-missing-number](https://github.com/rhumtea/LeetCode/tree/master/0268-missing-number) |
