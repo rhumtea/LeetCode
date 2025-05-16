@@ -119,6 +119,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/rhumtea/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/rhumtea/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/rhumtea/LeetCode/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/rhumtea/LeetCode/tree/master/0071-simplify-path) |
 | [0227-basic-calculator-ii](https://github.com/rhumtea/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/rhumtea/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -215,6 +216,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/rhumtea/LeetCode/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/rhumtea/LeetCode/tree/master/0071-simplify-path) |
 | [0143-reorder-list](https://github.com/rhumtea/LeetCode/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/rhumtea/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
