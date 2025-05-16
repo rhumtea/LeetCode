@@ -115,6 +115,7 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/rhumtea/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0071-simplify-path](https://github.com/rhumtea/LeetCode/tree/master/0071-simplify-path) |
 | [0227-basic-calculator-ii](https://github.com/rhumtea/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/rhumtea/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -277,4 +278,8 @@
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/rhumtea/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/rhumtea/LeetCode/tree/master/0739-daily-temperatures) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/rhumtea/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
