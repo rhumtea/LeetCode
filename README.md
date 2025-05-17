@@ -88,6 +88,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/rhumtea/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rhumtea/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/rhumtea/LeetCode/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rhumtea/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0141-linked-list-cycle](https://github.com/rhumtea/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/rhumtea/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/rhumtea/LeetCode/tree/master/0143-reorder-list) |
@@ -124,6 +125,7 @@
 | [0013-roman-to-integer](https://github.com/rhumtea/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/rhumtea/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/rhumtea/LeetCode/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rhumtea/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0071-simplify-path](https://github.com/rhumtea/LeetCode/tree/master/0071-simplify-path) |
 | [0227-basic-calculator-ii](https://github.com/rhumtea/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/rhumtea/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -291,4 +293,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/rhumtea/LeetCode/tree/master/0014-longest-common-prefix) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rhumtea/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
