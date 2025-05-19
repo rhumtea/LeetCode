@@ -57,6 +57,7 @@
 | [0009-palindrome-number](https://github.com/rhumtea/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/rhumtea/LeetCode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/rhumtea/LeetCode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/rhumtea/LeetCode/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/rhumtea/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0227-basic-calculator-ii](https://github.com/rhumtea/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0268-missing-number](https://github.com/rhumtea/LeetCode/tree/master/0268-missing-number) |
@@ -120,6 +121,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/rhumtea/LeetCode/tree/master/0067-add-binary) |
 | [0735-asteroid-collision](https://github.com/rhumtea/LeetCode/tree/master/0735-asteroid-collision) |
 | [2639-separate-the-digits-in-an-array](https://github.com/rhumtea/LeetCode/tree/master/2639-separate-the-digits-in-an-array) |
 | [2886-faulty-keyboard](https://github.com/rhumtea/LeetCode/tree/master/2886-faulty-keyboard) |
@@ -131,6 +133,7 @@
 | [0020-valid-parentheses](https://github.com/rhumtea/LeetCode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rhumtea/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/rhumtea/LeetCode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/rhumtea/LeetCode/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/rhumtea/LeetCode/tree/master/0071-simplify-path) |
 | [0227-basic-calculator-ii](https://github.com/rhumtea/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/rhumtea/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -185,6 +188,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/rhumtea/LeetCode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/rhumtea/LeetCode/tree/master/0078-subsets) |
 | [0190-reverse-bits](https://github.com/rhumtea/LeetCode/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/rhumtea/LeetCode/tree/master/0268-missing-number) |
