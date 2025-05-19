@@ -58,6 +58,7 @@
 | [0013-roman-to-integer](https://github.com/rhumtea/LeetCode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/rhumtea/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/rhumtea/LeetCode/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/rhumtea/LeetCode/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/rhumtea/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0227-basic-calculator-ii](https://github.com/rhumtea/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0268-missing-number](https://github.com/rhumtea/LeetCode/tree/master/0268-missing-number) |
@@ -106,6 +107,7 @@
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rhumtea/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/rhumtea/LeetCode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/rhumtea/LeetCode/tree/master/0069-sqrtx) |
 | [0209-minimum-size-subarray-sum](https://github.com/rhumtea/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/rhumtea/LeetCode/tree/master/0268-missing-number) |
 | [0713-subarray-product-less-than-k](https://github.com/rhumtea/LeetCode/tree/master/0713-subarray-product-less-than-k) |
