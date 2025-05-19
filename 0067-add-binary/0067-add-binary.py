@@ -16,8 +16,3 @@ class Solution:
             res.append(str(temp % 2))
             cout = temp // 2
         return ''.join(res[::-1])
-
-
-
-        
-                
