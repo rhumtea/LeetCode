@@ -3,12 +3,12 @@ class Solution:
         res = 0
         mp = defaultdict(int)
         for word in words:
-            temp = SortedSet()
+            temp = set()
             for c in word:
                 temp.add(c)
+            temp = list(temp)
+            temp.sort()
             temp = ''.join(temp)
+            res += mp[temp]
             mp[temp] += 1
-        for value in mp.values():
-            if value >= 2:
-                res += (value * (value - 1) // 2)
         return res
