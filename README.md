@@ -84,6 +84,7 @@
 | [0940-fruit-into-baskets](https://github.com/rhumtea/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/rhumtea/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1370-count-number-of-nice-subarrays](https://github.com/rhumtea/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/rhumtea/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2634-minimum-common-value](https://github.com/rhumtea/LeetCode/tree/master/2634-minimum-common-value) |
 | [2902-max-pair-sum-in-an-array](https://github.com/rhumtea/LeetCode/tree/master/2902-max-pair-sum-in-an-array) |
 | [3034-points-that-intersect-with-cars](https://github.com/rhumtea/LeetCode/tree/master/3034-points-that-intersect-with-cars) |
@@ -143,6 +144,7 @@
 | [1304-longest-happy-string](https://github.com/rhumtea/LeetCode/tree/master/1304-longest-happy-string) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/rhumtea/LeetCode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1321-get-equal-substrings-within-budget](https://github.com/rhumtea/LeetCode/tree/master/1321-get-equal-substrings-within-budget) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/rhumtea/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2881-split-strings-by-separator](https://github.com/rhumtea/LeetCode/tree/master/2881-split-strings-by-separator) |
 | [2886-faulty-keyboard](https://github.com/rhumtea/LeetCode/tree/master/2886-faulty-keyboard) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/rhumtea/LeetCode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
@@ -162,6 +164,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/rhumtea/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/rhumtea/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [3019-furthest-point-from-origin](https://github.com/rhumtea/LeetCode/tree/master/3019-furthest-point-from-origin) |
 ## Greedy
 |  |
