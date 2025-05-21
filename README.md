@@ -35,6 +35,7 @@
 | [1582-design-browser-history](https://github.com/rhumtea/LeetCode/tree/master/1582-design-browser-history) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/rhumtea/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1762-furthest-building-you-can-reach](https://github.com/rhumtea/LeetCode/tree/master/1762-furthest-building-you-can-reach) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/rhumtea/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1962-single-threaded-cpu](https://github.com/rhumtea/LeetCode/tree/master/1962-single-threaded-cpu) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/rhumtea/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2329-maximum-product-after-k-increments](https://github.com/rhumtea/LeetCode/tree/master/2329-maximum-product-after-k-increments) |
@@ -335,6 +336,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/rhumtea/LeetCode/tree/master/0070-climbing-stairs) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/rhumtea/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/rhumtea/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 ## Memoization
 |  |
 | ------- |
