@@ -123,6 +123,7 @@
 | [0027-remove-element](https://github.com/rhumtea/LeetCode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rhumtea/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/rhumtea/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/rhumtea/LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/rhumtea/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/rhumtea/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/rhumtea/LeetCode/tree/master/0143-reorder-list) |
@@ -167,6 +168,7 @@
 | [0058-length-of-last-word](https://github.com/rhumtea/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/rhumtea/LeetCode/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/rhumtea/LeetCode/tree/master/0071-simplify-path) |
+| [0125-valid-palindrome](https://github.com/rhumtea/LeetCode/tree/master/0125-valid-palindrome) |
 | [0227-basic-calculator-ii](https://github.com/rhumtea/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/rhumtea/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/rhumtea/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
