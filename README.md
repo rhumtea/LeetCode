@@ -66,6 +66,7 @@
 | [3045-minimum-right-shifts-to-sort-the-array](https://github.com/rhumtea/LeetCode/tree/master/3045-minimum-right-shifts-to-sort-the-array) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/rhumtea/LeetCode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/rhumtea/LeetCode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
+| [3220-count-tested-devices-after-test-operations](https://github.com/rhumtea/LeetCode/tree/master/3220-count-tested-devices-after-test-operations) |
 ## Math
 |  |
 | ------- |
@@ -160,6 +161,7 @@
 | [0735-asteroid-collision](https://github.com/rhumtea/LeetCode/tree/master/0735-asteroid-collision) |
 | [2639-separate-the-digits-in-an-array](https://github.com/rhumtea/LeetCode/tree/master/2639-separate-the-digits-in-an-array) |
 | [2886-faulty-keyboard](https://github.com/rhumtea/LeetCode/tree/master/2886-faulty-keyboard) |
+| [3220-count-tested-devices-after-test-operations](https://github.com/rhumtea/LeetCode/tree/master/3220-count-tested-devices-after-test-operations) |
 ## String
 |  |
 | ------- |
@@ -216,6 +218,7 @@
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/rhumtea/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/rhumtea/LeetCode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [3019-furthest-point-from-origin](https://github.com/rhumtea/LeetCode/tree/master/3019-furthest-point-from-origin) |
+| [3220-count-tested-devices-after-test-operations](https://github.com/rhumtea/LeetCode/tree/master/3220-count-tested-devices-after-test-operations) |
 ## Greedy
 |  |
 | ------- |
