@@ -118,6 +118,7 @@
 | [2902-max-pair-sum-in-an-array](https://github.com/rhumtea/LeetCode/tree/master/2902-max-pair-sum-in-an-array) |
 | [3034-points-that-intersect-with-cars](https://github.com/rhumtea/LeetCode/tree/master/3034-points-that-intersect-with-cars) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/rhumtea/LeetCode/tree/master/3044-minimum-operations-to-collect-elements) |
+| [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/rhumtea/LeetCode/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -190,6 +191,7 @@
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/rhumtea/LeetCode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3019-furthest-point-from-origin](https://github.com/rhumtea/LeetCode/tree/master/3019-furthest-point-from-origin) |
 | [3055-maximum-odd-binary-number](https://github.com/rhumtea/LeetCode/tree/master/3055-maximum-odd-binary-number) |
+| [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/rhumtea/LeetCode/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 ## Sorting
 |  |
 | ------- |
@@ -219,6 +221,7 @@
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/rhumtea/LeetCode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [3019-furthest-point-from-origin](https://github.com/rhumtea/LeetCode/tree/master/3019-furthest-point-from-origin) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/rhumtea/LeetCode/tree/master/3220-count-tested-devices-after-test-operations) |
+| [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/rhumtea/LeetCode/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 ## Greedy
 |  |
 | ------- |
