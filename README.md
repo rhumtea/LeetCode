@@ -12,6 +12,7 @@
 | [0066-plus-one](https://github.com/rhumtea/LeetCode/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/rhumtea/LeetCode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/rhumtea/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/rhumtea/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/rhumtea/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0209-minimum-size-subarray-sum](https://github.com/rhumtea/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rhumtea/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -365,6 +366,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/rhumtea/LeetCode/tree/master/0070-climbing-stairs) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/rhumtea/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/rhumtea/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/rhumtea/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 ## Memoization
