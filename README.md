@@ -70,6 +70,7 @@
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/rhumtea/LeetCode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/rhumtea/LeetCode/tree/master/3220-count-tested-devices-after-test-operations) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/rhumtea/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3778-transform-array-by-parity](https://github.com/rhumtea/LeetCode/tree/master/3778-transform-array-by-parity) |
 ## Math
 |  |
 | ------- |
@@ -213,6 +214,7 @@
 | [1962-single-threaded-cpu](https://github.com/rhumtea/LeetCode/tree/master/1962-single-threaded-cpu) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/rhumtea/LeetCode/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/rhumtea/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3778-transform-array-by-parity](https://github.com/rhumtea/LeetCode/tree/master/3778-transform-array-by-parity) |
 ## Counting
 |  |
 | ------- |
@@ -235,6 +237,7 @@
 | [3242-count-elements-with-maximum-frequency](https://github.com/rhumtea/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/rhumtea/LeetCode/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/rhumtea/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3778-transform-array-by-parity](https://github.com/rhumtea/LeetCode/tree/master/3778-transform-array-by-parity) |
 ## Greedy
 |  |
 | ------- |
