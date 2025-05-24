@@ -124,6 +124,7 @@
 | [3044-minimum-operations-to-collect-elements](https://github.com/rhumtea/LeetCode/tree/master/3044-minimum-operations-to-collect-elements) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/rhumtea/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/rhumtea/LeetCode/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/rhumtea/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -197,6 +198,7 @@
 | [3019-furthest-point-from-origin](https://github.com/rhumtea/LeetCode/tree/master/3019-furthest-point-from-origin) |
 | [3055-maximum-odd-binary-number](https://github.com/rhumtea/LeetCode/tree/master/3055-maximum-odd-binary-number) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/rhumtea/LeetCode/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/rhumtea/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Sorting
 |  |
 | ------- |
@@ -230,6 +232,7 @@
 | [3220-count-tested-devices-after-test-operations](https://github.com/rhumtea/LeetCode/tree/master/3220-count-tested-devices-after-test-operations) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/rhumtea/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/rhumtea/LeetCode/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/rhumtea/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Greedy
 |  |
 | ------- |
