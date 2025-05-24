@@ -6,13 +6,15 @@
 
 class Solution:
     def getIntersectionNode(self, headA: ListNode, headB: ListNode) -> Optional[ListNode]:
-        a, b = headA, headB
-        # let c = distance from intersection node to end
-        # a moves = skipA + c + skipB 
-        # b moves = skipB + c + skipA
-        # a meets b at intersection => a moves == b moves 
+        a = headA
+        b = headB
         while a != b:
-            a = a.next if a else headB
-            b = b.next if b else headA
+            if a:
+                a = a.next
+            else:
+                a = headB
+            if b:
+                b = b.next
+            else: 
+                b = headA
         return a
-            
