@@ -38,6 +38,7 @@
 | [1016-subarray-sums-divisible-by-k](https://github.com/rhumtea/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/rhumtea/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/rhumtea/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/rhumtea/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1370-count-number-of-nice-subarrays](https://github.com/rhumtea/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1582-design-browser-history](https://github.com/rhumtea/LeetCode/tree/master/1582-design-browser-history) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/rhumtea/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -111,6 +112,7 @@
 | [0940-fruit-into-baskets](https://github.com/rhumtea/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/rhumtea/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/rhumtea/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/rhumtea/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1370-count-number-of-nice-subarrays](https://github.com/rhumtea/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1635-number-of-good-pairs](https://github.com/rhumtea/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/rhumtea/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -222,6 +224,7 @@
 | [0347-top-k-frequent-elements](https://github.com/rhumtea/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0594-longest-harmonious-subsequence](https://github.com/rhumtea/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/rhumtea/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/rhumtea/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1635-number-of-good-pairs](https://github.com/rhumtea/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1708-design-parking-system](https://github.com/rhumtea/LeetCode/tree/master/1708-design-parking-system) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/rhumtea/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
