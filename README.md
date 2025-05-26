@@ -52,6 +52,7 @@
 | [2190-count-common-words-with-one-occurrence](https://github.com/rhumtea/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/rhumtea/LeetCode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2308-divide-array-into-equal-pairs](https://github.com/rhumtea/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2312-most-frequent-number-following-key-in-an-array](https://github.com/rhumtea/LeetCode/tree/master/2312-most-frequent-number-following-key-in-an-array) |
 | [2329-maximum-product-after-k-increments](https://github.com/rhumtea/LeetCode/tree/master/2329-maximum-product-after-k-increments) |
 | [2594-count-pairs-of-similar-strings](https://github.com/rhumtea/LeetCode/tree/master/2594-count-pairs-of-similar-strings) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/rhumtea/LeetCode/tree/master/2600-maximum-tastiness-of-candy-basket) |
@@ -128,6 +129,7 @@
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/rhumtea/LeetCode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/rhumtea/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2308-divide-array-into-equal-pairs](https://github.com/rhumtea/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2312-most-frequent-number-following-key-in-an-array](https://github.com/rhumtea/LeetCode/tree/master/2312-most-frequent-number-following-key-in-an-array) |
 | [2594-count-pairs-of-similar-strings](https://github.com/rhumtea/LeetCode/tree/master/2594-count-pairs-of-similar-strings) |
 | [2634-minimum-common-value](https://github.com/rhumtea/LeetCode/tree/master/2634-minimum-common-value) |
 | [2902-max-pair-sum-in-an-array](https://github.com/rhumtea/LeetCode/tree/master/2902-max-pair-sum-in-an-array) |
@@ -248,6 +250,7 @@
 | [2190-count-common-words-with-one-occurrence](https://github.com/rhumtea/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/rhumtea/LeetCode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2308-divide-array-into-equal-pairs](https://github.com/rhumtea/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2312-most-frequent-number-following-key-in-an-array](https://github.com/rhumtea/LeetCode/tree/master/2312-most-frequent-number-following-key-in-an-array) |
 | [2594-count-pairs-of-similar-strings](https://github.com/rhumtea/LeetCode/tree/master/2594-count-pairs-of-similar-strings) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/rhumtea/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/rhumtea/LeetCode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
