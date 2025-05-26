@@ -63,6 +63,7 @@
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/rhumtea/LeetCode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2665-minimum-time-to-repair-cars](https://github.com/rhumtea/LeetCode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/rhumtea/LeetCode/tree/master/2690-house-robber-iv) |
+| [2831-number-of-beautiful-pairs](https://github.com/rhumtea/LeetCode/tree/master/2831-number-of-beautiful-pairs) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/rhumtea/LeetCode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2881-split-strings-by-separator](https://github.com/rhumtea/LeetCode/tree/master/2881-split-strings-by-separator) |
 | [2902-max-pair-sum-in-an-array](https://github.com/rhumtea/LeetCode/tree/master/2902-max-pair-sum-in-an-array) |
@@ -97,6 +98,7 @@
 | [1635-number-of-good-pairs](https://github.com/rhumtea/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/rhumtea/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2630-alternating-digit-sum](https://github.com/rhumtea/LeetCode/tree/master/2630-alternating-digit-sum) |
+| [2831-number-of-beautiful-pairs](https://github.com/rhumtea/LeetCode/tree/master/2831-number-of-beautiful-pairs) |
 | [2955-account-balance-after-rounded-purchase](https://github.com/rhumtea/LeetCode/tree/master/2955-account-balance-after-rounded-purchase) |
 | [2998-count-symmetric-integers](https://github.com/rhumtea/LeetCode/tree/master/2998-count-symmetric-integers) |
 | [3055-maximum-odd-binary-number](https://github.com/rhumtea/LeetCode/tree/master/3055-maximum-odd-binary-number) |
@@ -132,6 +134,7 @@
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/rhumtea/LeetCode/tree/master/2312-most-frequent-number-following-key-in-an-array) |
 | [2594-count-pairs-of-similar-strings](https://github.com/rhumtea/LeetCode/tree/master/2594-count-pairs-of-similar-strings) |
 | [2634-minimum-common-value](https://github.com/rhumtea/LeetCode/tree/master/2634-minimum-common-value) |
+| [2831-number-of-beautiful-pairs](https://github.com/rhumtea/LeetCode/tree/master/2831-number-of-beautiful-pairs) |
 | [2902-max-pair-sum-in-an-array](https://github.com/rhumtea/LeetCode/tree/master/2902-max-pair-sum-in-an-array) |
 | [3034-points-that-intersect-with-cars](https://github.com/rhumtea/LeetCode/tree/master/3034-points-that-intersect-with-cars) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/rhumtea/LeetCode/tree/master/3044-minimum-operations-to-collect-elements) |
@@ -254,6 +257,7 @@
 | [2594-count-pairs-of-similar-strings](https://github.com/rhumtea/LeetCode/tree/master/2594-count-pairs-of-similar-strings) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/rhumtea/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/rhumtea/LeetCode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
+| [2831-number-of-beautiful-pairs](https://github.com/rhumtea/LeetCode/tree/master/2831-number-of-beautiful-pairs) |
 | [3019-furthest-point-from-origin](https://github.com/rhumtea/LeetCode/tree/master/3019-furthest-point-from-origin) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/rhumtea/LeetCode/tree/master/3220-count-tested-devices-after-test-operations) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/rhumtea/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -429,4 +433,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/rhumtea/LeetCode/tree/master/0070-climbing-stairs) |
+## Number Theory
+|  |
+| ------- |
+| [2831-number-of-beautiful-pairs](https://github.com/rhumtea/LeetCode/tree/master/2831-number-of-beautiful-pairs) |
 <!---LeetCode Topics End-->
