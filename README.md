@@ -98,6 +98,7 @@
 | [1370-count-number-of-nice-subarrays](https://github.com/rhumtea/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/rhumtea/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1635-number-of-good-pairs](https://github.com/rhumtea/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [1844-maximum-number-of-balls-in-a-box](https://github.com/rhumtea/LeetCode/tree/master/1844-maximum-number-of-balls-in-a-box) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/rhumtea/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2630-alternating-digit-sum](https://github.com/rhumtea/LeetCode/tree/master/2630-alternating-digit-sum) |
 | [2831-number-of-beautiful-pairs](https://github.com/rhumtea/LeetCode/tree/master/2831-number-of-beautiful-pairs) |
@@ -129,6 +130,7 @@
 | [1635-number-of-good-pairs](https://github.com/rhumtea/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/rhumtea/LeetCode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/rhumtea/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1844-maximum-number-of-balls-in-a-box](https://github.com/rhumtea/LeetCode/tree/master/1844-maximum-number-of-balls-in-a-box) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/rhumtea/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/rhumtea/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/rhumtea/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -262,6 +264,7 @@
 | [1708-design-parking-system](https://github.com/rhumtea/LeetCode/tree/master/1708-design-parking-system) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/rhumtea/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/rhumtea/LeetCode/tree/master/1823-determine-if-string-halves-are-alike) |
+| [1844-maximum-number-of-balls-in-a-box](https://github.com/rhumtea/LeetCode/tree/master/1844-maximum-number-of-balls-in-a-box) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/rhumtea/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/rhumtea/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/rhumtea/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
