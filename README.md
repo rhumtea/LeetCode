@@ -36,6 +36,7 @@
 | [0837-most-common-word](https://github.com/rhumtea/LeetCode/tree/master/0837-most-common-word) |
 | [0907-koko-eating-bananas](https://github.com/rhumtea/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0940-fruit-into-baskets](https://github.com/rhumtea/LeetCode/tree/master/0940-fruit-into-baskets) |
+| [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/rhumtea/LeetCode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/rhumtea/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/rhumtea/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/rhumtea/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
@@ -100,6 +101,7 @@
 | [0227-basic-calculator-ii](https://github.com/rhumtea/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0268-missing-number](https://github.com/rhumtea/LeetCode/tree/master/0268-missing-number) |
 | [0523-continuous-subarray-sum](https://github.com/rhumtea/LeetCode/tree/master/0523-continuous-subarray-sum) |
+| [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/rhumtea/LeetCode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1370-count-number-of-nice-subarrays](https://github.com/rhumtea/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/rhumtea/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1635-number-of-good-pairs](https://github.com/rhumtea/LeetCode/tree/master/1635-number-of-good-pairs) |
@@ -132,6 +134,7 @@
 | [0645-set-mismatch](https://github.com/rhumtea/LeetCode/tree/master/0645-set-mismatch) |
 | [0837-most-common-word](https://github.com/rhumtea/LeetCode/tree/master/0837-most-common-word) |
 | [0940-fruit-into-baskets](https://github.com/rhumtea/LeetCode/tree/master/0940-fruit-into-baskets) |
+| [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/rhumtea/LeetCode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/rhumtea/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/rhumtea/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/rhumtea/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -290,6 +293,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/rhumtea/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/rhumtea/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0837-most-common-word](https://github.com/rhumtea/LeetCode/tree/master/0837-most-common-word) |
+| [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/rhumtea/LeetCode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/rhumtea/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/rhumtea/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1297-maximum-number-of-balloons](https://github.com/rhumtea/LeetCode/tree/master/1297-maximum-number-of-balloons) |
@@ -510,6 +514,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/rhumtea/LeetCode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [2831-number-of-beautiful-pairs](https://github.com/rhumtea/LeetCode/tree/master/2831-number-of-beautiful-pairs) |
 ## Queue
 |  |
