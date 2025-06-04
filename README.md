@@ -98,6 +98,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/rhumtea/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/rhumtea/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/rhumtea/LeetCode/tree/master/0171-excel-sheet-column-number) |
+| [0202-happy-number](https://github.com/rhumtea/LeetCode/tree/master/0202-happy-number) |
 | [0227-basic-calculator-ii](https://github.com/rhumtea/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0268-missing-number](https://github.com/rhumtea/LeetCode/tree/master/0268-missing-number) |
 | [0523-continuous-subarray-sum](https://github.com/rhumtea/LeetCode/tree/master/0523-continuous-subarray-sum) |
@@ -121,6 +122,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/rhumtea/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/rhumtea/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/rhumtea/LeetCode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/rhumtea/LeetCode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/rhumtea/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/rhumtea/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/rhumtea/LeetCode/tree/master/0383-ransom-note) |
@@ -186,6 +188,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/rhumtea/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/rhumtea/LeetCode/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/rhumtea/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/rhumtea/LeetCode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/rhumtea/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/rhumtea/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [2634-minimum-common-value](https://github.com/rhumtea/LeetCode/tree/master/2634-minimum-common-value) |
