@@ -1,6 +1,7 @@
 class Solution:
     def countSubarrays(self, nums: List[int], k: int) -> int:
-        res = summ = w = l = 0
+        res = summ = w = 0
+        l = 0
         for r in range(len(nums)):
             summ += nums[r]
             w = summ * (r - l + 1)
