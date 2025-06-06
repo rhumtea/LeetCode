@@ -5,7 +5,7 @@ class Solution:
             for candy in candies:
                 summ += candy // mid
             return summ >= k
-        l, r = 1, 10**12
+        l, r = 1, max(candies)
         while l <= r:
             mid = l + (r - l) // 2
             if check(mid):
