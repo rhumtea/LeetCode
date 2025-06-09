@@ -103,6 +103,7 @@
 | [0171-excel-sheet-column-number](https://github.com/rhumtea/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/rhumtea/LeetCode/tree/master/0202-happy-number) |
 | [0227-basic-calculator-ii](https://github.com/rhumtea/LeetCode/tree/master/0227-basic-calculator-ii) |
+| [0263-ugly-number](https://github.com/rhumtea/LeetCode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/rhumtea/LeetCode/tree/master/0268-missing-number) |
 | [0523-continuous-subarray-sum](https://github.com/rhumtea/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/rhumtea/LeetCode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
