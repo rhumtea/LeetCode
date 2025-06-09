@@ -108,6 +108,7 @@
 | [0227-basic-calculator-ii](https://github.com/rhumtea/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0263-ugly-number](https://github.com/rhumtea/LeetCode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/rhumtea/LeetCode/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/rhumtea/LeetCode/tree/master/0292-nim-game) |
 | [0523-continuous-subarray-sum](https://github.com/rhumtea/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/rhumtea/LeetCode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1370-count-number-of-nice-subarrays](https://github.com/rhumtea/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -556,4 +557,12 @@
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/rhumtea/LeetCode/tree/master/0278-first-bad-version) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/rhumtea/LeetCode/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/rhumtea/LeetCode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
