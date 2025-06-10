@@ -49,6 +49,7 @@
 | [1227-number-of-equivalent-domino-pairs](https://github.com/rhumtea/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/rhumtea/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1370-count-number-of-nice-subarrays](https://github.com/rhumtea/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/rhumtea/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1582-design-browser-history](https://github.com/rhumtea/LeetCode/tree/master/1582-design-browser-history) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/rhumtea/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1635-number-of-good-pairs](https://github.com/rhumtea/LeetCode/tree/master/1635-number-of-good-pairs) |
@@ -316,6 +317,7 @@
 | [0561-array-partition](https://github.com/rhumtea/LeetCode/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/rhumtea/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/rhumtea/LeetCode/tree/master/0645-set-mismatch) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/rhumtea/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1962-single-threaded-cpu](https://github.com/rhumtea/LeetCode/tree/master/1962-single-threaded-cpu) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/rhumtea/LeetCode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2331-intersection-of-multiple-arrays](https://github.com/rhumtea/LeetCode/tree/master/2331-intersection-of-multiple-arrays) |
@@ -338,6 +340,7 @@
 | [1227-number-of-equivalent-domino-pairs](https://github.com/rhumtea/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1297-maximum-number-of-balloons](https://github.com/rhumtea/LeetCode/tree/master/1297-maximum-number-of-balloons) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/rhumtea/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/rhumtea/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1635-number-of-good-pairs](https://github.com/rhumtea/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1708-design-parking-system](https://github.com/rhumtea/LeetCode/tree/master/1708-design-parking-system) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/rhumtea/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -421,6 +424,7 @@
 | [0268-missing-number](https://github.com/rhumtea/LeetCode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/rhumtea/LeetCode/tree/master/0342-power-of-four) |
 | [0645-set-mismatch](https://github.com/rhumtea/LeetCode/tree/master/0645-set-mismatch) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/rhumtea/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/rhumtea/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2308-divide-array-into-equal-pairs](https://github.com/rhumtea/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2427-first-letter-to-appear-twice](https://github.com/rhumtea/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
