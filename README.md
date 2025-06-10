@@ -111,6 +111,7 @@
 | [0263-ugly-number](https://github.com/rhumtea/LeetCode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/rhumtea/LeetCode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/rhumtea/LeetCode/tree/master/0292-nim-game) |
+| [0342-power-of-four](https://github.com/rhumtea/LeetCode/tree/master/0342-power-of-four) |
 | [0523-continuous-subarray-sum](https://github.com/rhumtea/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/rhumtea/LeetCode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1370-count-number-of-nice-subarrays](https://github.com/rhumtea/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -408,6 +409,7 @@
 | [0190-reverse-bits](https://github.com/rhumtea/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/rhumtea/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/rhumtea/LeetCode/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/rhumtea/LeetCode/tree/master/0342-power-of-four) |
 | [0645-set-mismatch](https://github.com/rhumtea/LeetCode/tree/master/0645-set-mismatch) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/rhumtea/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2308-divide-array-into-equal-pairs](https://github.com/rhumtea/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -451,6 +453,7 @@
 | [0143-reorder-list](https://github.com/rhumtea/LeetCode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/rhumtea/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/rhumtea/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0342-power-of-four](https://github.com/rhumtea/LeetCode/tree/master/0342-power-of-four) |
 ## Stack
 |  |
 | ------- |
