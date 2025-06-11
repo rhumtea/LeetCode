@@ -1,18 +1,12 @@
 class Solution:
     def maximumProduct(self, nums: List[int], k: int) -> int:
-        mod = 10**9+7
-        def helper(arr):
-            product = 1
-            for i in arr: product = product * i % mod
-            return product
-        
         pq = []
-        for num in nums: heappush(pq, num)
-        res = helper(pq)
-        # k(log(n))
-        while k != 0:
-            temp = heappop(pq)+1
-            heappush(pq, temp)
-            k -= 1
-        return helper(pq)
-        
+        for num in nums:
+            heappush(pq, num)
+        for i in range(k):
+            heappush(pq, heappop(pq) + 1)
+        res = 1
+        mod = 10**9 + 7
+        for num in pq:
+            res = (res * num) % mod
+        return res
