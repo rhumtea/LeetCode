@@ -147,6 +147,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/rhumtea/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/rhumtea/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/rhumtea/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/rhumtea/LeetCode/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/rhumtea/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/rhumtea/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0523-continuous-subarray-sum](https://github.com/rhumtea/LeetCode/tree/master/0523-continuous-subarray-sum) |
@@ -275,6 +276,7 @@
 | [0344-reverse-string](https://github.com/rhumtea/LeetCode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/rhumtea/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/rhumtea/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/rhumtea/LeetCode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/rhumtea/LeetCode/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/rhumtea/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/rhumtea/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -319,6 +321,7 @@
 | [0347-top-k-frequent-elements](https://github.com/rhumtea/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/rhumtea/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rhumtea/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/rhumtea/LeetCode/tree/master/0389-find-the-difference) |
 | [0561-array-partition](https://github.com/rhumtea/LeetCode/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/rhumtea/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/rhumtea/LeetCode/tree/master/0645-set-mismatch) |
@@ -430,6 +433,7 @@
 | [0191-number-of-1-bits](https://github.com/rhumtea/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/rhumtea/LeetCode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/rhumtea/LeetCode/tree/master/0342-power-of-four) |
+| [0389-find-the-difference](https://github.com/rhumtea/LeetCode/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/rhumtea/LeetCode/tree/master/0645-set-mismatch) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/rhumtea/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/rhumtea/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
