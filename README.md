@@ -118,6 +118,7 @@
 | [0292-nim-game](https://github.com/rhumtea/LeetCode/tree/master/0292-nim-game) |
 | [0342-power-of-four](https://github.com/rhumtea/LeetCode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/rhumtea/LeetCode/tree/master/0367-valid-perfect-square) |
+| [0412-fizz-buzz](https://github.com/rhumtea/LeetCode/tree/master/0412-fizz-buzz) |
 | [0523-continuous-subarray-sum](https://github.com/rhumtea/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/rhumtea/LeetCode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1370-count-number-of-nice-subarrays](https://github.com/rhumtea/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -253,6 +254,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/rhumtea/LeetCode/tree/master/0067-add-binary) |
+| [0412-fizz-buzz](https://github.com/rhumtea/LeetCode/tree/master/0412-fizz-buzz) |
 | [0566-reshape-the-matrix](https://github.com/rhumtea/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0735-asteroid-collision](https://github.com/rhumtea/LeetCode/tree/master/0735-asteroid-collision) |
 | [1708-design-parking-system](https://github.com/rhumtea/LeetCode/tree/master/1708-design-parking-system) |
@@ -280,6 +282,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/rhumtea/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/rhumtea/LeetCode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/rhumtea/LeetCode/tree/master/0392-is-subsequence) |
+| [0412-fizz-buzz](https://github.com/rhumtea/LeetCode/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/rhumtea/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/rhumtea/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/rhumtea/LeetCode/tree/master/0680-valid-palindrome-ii) |
