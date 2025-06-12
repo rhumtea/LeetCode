@@ -25,6 +25,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/rhumtea/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rhumtea/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/rhumtea/LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rhumtea/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0503-next-greater-element-ii](https://github.com/rhumtea/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/rhumtea/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/rhumtea/LeetCode/tree/master/0525-contiguous-array) |
@@ -153,6 +154,7 @@
 | [0389-find-the-difference](https://github.com/rhumtea/LeetCode/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/rhumtea/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/rhumtea/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rhumtea/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0523-continuous-subarray-sum](https://github.com/rhumtea/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/rhumtea/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/rhumtea/LeetCode/tree/master/0560-subarray-sum-equals-k) |
