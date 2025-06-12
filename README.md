@@ -47,6 +47,7 @@
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/rhumtea/LeetCode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/rhumtea/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/rhumtea/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/rhumtea/LeetCode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/rhumtea/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/rhumtea/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/rhumtea/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -398,6 +399,7 @@
 | [0680-valid-palindrome-ii](https://github.com/rhumtea/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0890-lemonade-change](https://github.com/rhumtea/LeetCode/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/rhumtea/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/rhumtea/LeetCode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1304-longest-happy-string](https://github.com/rhumtea/LeetCode/tree/master/1304-longest-happy-string) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/rhumtea/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1762-furthest-building-you-can-reach](https://github.com/rhumtea/LeetCode/tree/master/1762-furthest-building-you-can-reach) |
