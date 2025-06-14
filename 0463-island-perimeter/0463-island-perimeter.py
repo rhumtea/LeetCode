@@ -13,7 +13,5 @@ class Solution:
                     if row < len(grid)-1:
                         res -= cur * grid[row+1][col]
                     if col < len(grid[0])-1:
-                        res -= cur * grid[row][col+1]    
-                else:
-                    continue              
+                        res -= cur * grid[row][col+1]                 
         return res
