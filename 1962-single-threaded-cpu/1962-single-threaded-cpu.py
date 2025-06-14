@@ -1,23 +1,21 @@
 class Solution:
     def getOrder(self, tasks: List[List[int]]) -> List[int]:
-        sorted_tasks = []
+        new_tasks = []
         for i in range(len(tasks)):
-            sorted_tasks.append([tasks[i][0], tasks[i][1], i])
-        sorted_tasks = sorted(sorted_tasks, key=lambda x:x[0])
-
+            new_tasks.append((tasks[i][0], tasks[i][1], i))
+        new_tasks.sort(key=lambda x:x[0])
         res = []
-        cur = 0
-        waitlist = []
-        N = len(sorted_tasks)
-        i = 0
-        while waitlist or i < N:
-            if waitlist == [] and cur < sorted_tasks[i][0]:
-                cur = sorted_tasks[i][0]
-            while i < N and sorted_tasks[i][0] <= cur:
-                heappush(waitlist, [sorted_tasks[i][1], sorted_tasks[i][2]])
+        pq = []
+        current_time = i = 0
+        n = len(new_tasks)
+        while pq or i < n:
+            if pq == [] and current_time < new_tasks[i][0]:
+                current_time = new_tasks[i][0]
+            while i < n and new_tasks[i][0] <= current_time:
+                heappush(pq, (new_tasks[i][1], new_tasks[i][2]))
                 i += 1
-            if waitlist:
-                temp = heappop(waitlist)
-                res.append(temp[1])
-                cur += temp[0]
+            if pq:
+                enqueue_time, index = heappop(pq)
+                res.append(index)
+                current_time += enqueue_time
         return res
