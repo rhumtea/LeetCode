@@ -11,4 +11,3 @@ class Solution:
             if check(mid): r = mid-1
             else: l = mid+1
         return l
-        
