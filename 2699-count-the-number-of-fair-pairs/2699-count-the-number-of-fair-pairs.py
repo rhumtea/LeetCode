@@ -3,5 +3,6 @@ class Solution:
         res = 0
         nums.sort()
         for i in range(len(nums)):
-            res += bisect_right(nums, upper - nums[i], 0, i) - bisect_left(nums, lower - nums[i], 0, i)
+            u, l = upper - nums[i], lower - nums[i]
+            res += bisect_right(nums, u, 0, i) - bisect_left(nums, l, 0, i)
         return res
