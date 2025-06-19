@@ -46,6 +46,7 @@
 | [0739-daily-temperatures](https://github.com/rhumtea/LeetCode/tree/master/0739-daily-temperatures) |
 | [0777-toeplitz-matrix](https://github.com/rhumtea/LeetCode/tree/master/0777-toeplitz-matrix) |
 | [0837-most-common-word](https://github.com/rhumtea/LeetCode/tree/master/0837-most-common-word) |
+| [0861-flipping-an-image](https://github.com/rhumtea/LeetCode/tree/master/0861-flipping-an-image) |
 | [0890-lemonade-change](https://github.com/rhumtea/LeetCode/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/rhumtea/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0940-fruit-into-baskets](https://github.com/rhumtea/LeetCode/tree/master/0940-fruit-into-baskets) |
@@ -226,6 +227,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/rhumtea/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/rhumtea/LeetCode/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/rhumtea/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [0861-flipping-an-image](https://github.com/rhumtea/LeetCode/tree/master/0861-flipping-an-image) |
 | [0908-middle-of-the-linked-list](https://github.com/rhumtea/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [2634-minimum-common-value](https://github.com/rhumtea/LeetCode/tree/master/2634-minimum-common-value) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/rhumtea/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -264,6 +266,7 @@
 | [0412-fizz-buzz](https://github.com/rhumtea/LeetCode/tree/master/0412-fizz-buzz) |
 | [0566-reshape-the-matrix](https://github.com/rhumtea/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0735-asteroid-collision](https://github.com/rhumtea/LeetCode/tree/master/0735-asteroid-collision) |
+| [0861-flipping-an-image](https://github.com/rhumtea/LeetCode/tree/master/0861-flipping-an-image) |
 | [1708-design-parking-system](https://github.com/rhumtea/LeetCode/tree/master/1708-design-parking-system) |
 | [2639-separate-the-digits-in-an-array](https://github.com/rhumtea/LeetCode/tree/master/2639-separate-the-digits-in-an-array) |
 | [2886-faulty-keyboard](https://github.com/rhumtea/LeetCode/tree/master/2886-faulty-keyboard) |
@@ -448,6 +451,7 @@
 | [0342-power-of-four](https://github.com/rhumtea/LeetCode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/rhumtea/LeetCode/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/rhumtea/LeetCode/tree/master/0645-set-mismatch) |
+| [0861-flipping-an-image](https://github.com/rhumtea/LeetCode/tree/master/0861-flipping-an-image) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/rhumtea/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/rhumtea/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2308-divide-array-into-equal-pairs](https://github.com/rhumtea/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -622,6 +626,7 @@
 | [0661-image-smoother](https://github.com/rhumtea/LeetCode/tree/master/0661-image-smoother) |
 | [0733-flood-fill](https://github.com/rhumtea/LeetCode/tree/master/0733-flood-fill) |
 | [0777-toeplitz-matrix](https://github.com/rhumtea/LeetCode/tree/master/0777-toeplitz-matrix) |
+| [0861-flipping-an-image](https://github.com/rhumtea/LeetCode/tree/master/0861-flipping-an-image) |
 ## Depth-First Search
 |  |
 | ------- |
