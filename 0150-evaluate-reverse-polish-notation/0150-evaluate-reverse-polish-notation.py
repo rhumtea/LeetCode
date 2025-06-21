@@ -12,7 +12,6 @@ class Solution:
                     return -(abs(a)//abs(b))
                 else:
                     return a//b
-
         stack = []
         for token in tokens:
             if token in "+-*/":
