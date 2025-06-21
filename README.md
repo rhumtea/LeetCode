@@ -416,6 +416,7 @@
 | [1762-furthest-building-you-can-reach](https://github.com/rhumtea/LeetCode/tree/master/1762-furthest-building-you-can-reach) |
 | [2329-maximum-product-after-k-increments](https://github.com/rhumtea/LeetCode/tree/master/2329-maximum-product-after-k-increments) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/rhumtea/LeetCode/tree/master/2600-maximum-tastiness-of-candy-basket) |
+| [2690-house-robber-iv](https://github.com/rhumtea/LeetCode/tree/master/2690-house-robber-iv) |
 | [3055-maximum-odd-binary-number](https://github.com/rhumtea/LeetCode/tree/master/3055-maximum-odd-binary-number) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/rhumtea/LeetCode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Enumeration
@@ -591,6 +592,7 @@
 | [0392-is-subsequence](https://github.com/rhumtea/LeetCode/tree/master/0392-is-subsequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/rhumtea/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/rhumtea/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [2690-house-robber-iv](https://github.com/rhumtea/LeetCode/tree/master/2690-house-robber-iv) |
 ## Memoization
 |  |
 | ------- |
