@@ -129,6 +129,7 @@
 | [0367-valid-perfect-square](https://github.com/rhumtea/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/rhumtea/LeetCode/tree/master/0412-fizz-buzz) |
 | [0523-continuous-subarray-sum](https://github.com/rhumtea/LeetCode/tree/master/0523-continuous-subarray-sum) |
+| [0728-self-dividing-numbers](https://github.com/rhumtea/LeetCode/tree/master/0728-self-dividing-numbers) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/rhumtea/LeetCode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1013-fibonacci-number](https://github.com/rhumtea/LeetCode/tree/master/1013-fibonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/rhumtea/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
