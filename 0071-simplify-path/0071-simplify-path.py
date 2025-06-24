@@ -11,3 +11,4 @@ class Solution:
             else:
                 stack.append(apath)
         return "/" + "/".join(stack)
+                
