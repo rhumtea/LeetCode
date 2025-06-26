@@ -3,13 +3,13 @@ class Solution:
         def check(mid):
             prev = position[0]
             count = 1
-            for i in range(1, len(position)):
+            for i in range(len(position)):
                 if position[i] - prev >= mid:
                     count += 1
                     prev = position[i]
             return count >= m
         position.sort()
-        l, r = 1, position[-1] 
+        l, r = 1, 10**9
         while l <= r:
             mid = l + (r-l)//2
             if check(mid):
