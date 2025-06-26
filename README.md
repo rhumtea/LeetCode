@@ -312,6 +312,7 @@
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/rhumtea/LeetCode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1321-get-equal-substrings-within-budget](https://github.com/rhumtea/LeetCode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/rhumtea/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/rhumtea/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/rhumtea/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/rhumtea/LeetCode/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/rhumtea/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -445,6 +446,7 @@
 | [1321-get-equal-substrings-within-budget](https://github.com/rhumtea/LeetCode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1370-count-number-of-nice-subarrays](https://github.com/rhumtea/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/rhumtea/LeetCode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/rhumtea/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/rhumtea/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/rhumtea/LeetCode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/rhumtea/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
