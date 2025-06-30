@@ -195,6 +195,7 @@
 | [2331-intersection-of-multiple-arrays](https://github.com/rhumtea/LeetCode/tree/master/2331-intersection-of-multiple-arrays) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/rhumtea/LeetCode/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/rhumtea/LeetCode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
+| [2413-smallest-number-in-infinite-set](https://github.com/rhumtea/LeetCode/tree/master/2413-smallest-number-in-infinite-set) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/rhumtea/LeetCode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2427-first-letter-to-appear-twice](https://github.com/rhumtea/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 | [2433-best-poker-hand](https://github.com/rhumtea/LeetCode/tree/master/2433-best-poker-hand) |
@@ -532,6 +533,7 @@
 | [0729-my-calendar-i](https://github.com/rhumtea/LeetCode/tree/master/0729-my-calendar-i) |
 | [1582-design-browser-history](https://github.com/rhumtea/LeetCode/tree/master/1582-design-browser-history) |
 | [1708-design-parking-system](https://github.com/rhumtea/LeetCode/tree/master/1708-design-parking-system) |
+| [2413-smallest-number-in-infinite-set](https://github.com/rhumtea/LeetCode/tree/master/2413-smallest-number-in-infinite-set) |
 ## Sliding Window
 |  |
 | ------- |
@@ -559,6 +561,7 @@
 | [1762-furthest-building-you-can-reach](https://github.com/rhumtea/LeetCode/tree/master/1762-furthest-building-you-can-reach) |
 | [1962-single-threaded-cpu](https://github.com/rhumtea/LeetCode/tree/master/1962-single-threaded-cpu) |
 | [2329-maximum-product-after-k-increments](https://github.com/rhumtea/LeetCode/tree/master/2329-maximum-product-after-k-increments) |
+| [2413-smallest-number-in-infinite-set](https://github.com/rhumtea/LeetCode/tree/master/2413-smallest-number-in-infinite-set) |
 ## Quickselect
 |  |
 | ------- |
@@ -585,6 +588,7 @@
 | ------- |
 | [0729-my-calendar-i](https://github.com/rhumtea/LeetCode/tree/master/0729-my-calendar-i) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/rhumtea/LeetCode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [2413-smallest-number-in-infinite-set](https://github.com/rhumtea/LeetCode/tree/master/2413-smallest-number-in-infinite-set) |
 ## Monotonic Stack
 |  |
 | ------- |
