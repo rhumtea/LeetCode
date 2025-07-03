@@ -2,10 +2,10 @@ class Solution:
     def sumOddLengthSubarrays(self, arr: List[int]) -> int:
         n = len(arr)
         res = 0
-        for l in range(n):
-            cur_sum = 0
-            for r in range(l, n):
-                cur_sum += arr[r]
-                if (r - l + 1) % 2 == 1:
-                    res += cur_sum
+        for i, v in enumerate(arr):
+            l, r = i, n - i - 1
+            odd_l, odd_r = l // 2 + 1, r // 2 + 1
+            even_l, even_r = (l + 1) // 2, (r + 1) // 2
+            res += v * odd_l * odd_r
+            res += v * even_l * even_r
         return res
