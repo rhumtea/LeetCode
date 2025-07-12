@@ -1,9 +1,9 @@
 class Solution:
     def validPath(self, n: int, edges: List[List[int]], source: int, destination: int) -> bool:
         adj = defaultdict(list)
-        for a, b in edges:
-            adj[a].append(b)
-            adj[b].append(a)
+        for m, n in edges:
+            adj[m].append(n)
+            adj[n].append(m)
         visit = set()
         def dfs(u):
             if u == destination:
