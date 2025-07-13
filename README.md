@@ -673,12 +673,14 @@
 | ------- |
 | [0463-island-perimeter](https://github.com/rhumtea/LeetCode/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/rhumtea/LeetCode/tree/master/0733-flood-fill) |
+| [0871-keys-and-rooms](https://github.com/rhumtea/LeetCode/tree/master/0871-keys-and-rooms) |
 | [2121-find-if-path-exists-in-graph](https://github.com/rhumtea/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/rhumtea/LeetCode/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/rhumtea/LeetCode/tree/master/0733-flood-fill) |
+| [0871-keys-and-rooms](https://github.com/rhumtea/LeetCode/tree/master/0871-keys-and-rooms) |
 | [2121-find-if-path-exists-in-graph](https://github.com/rhumtea/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Monotonic Queue
 |  |
@@ -691,5 +693,6 @@
 ## Graph
 |  |
 | ------- |
+| [0871-keys-and-rooms](https://github.com/rhumtea/LeetCode/tree/master/0871-keys-and-rooms) |
 | [2121-find-if-path-exists-in-graph](https://github.com/rhumtea/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
