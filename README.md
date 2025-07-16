@@ -18,6 +18,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/rhumtea/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rhumtea/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/rhumtea/LeetCode/tree/master/0169-majority-element) |
+| [0200-number-of-islands](https://github.com/rhumtea/LeetCode/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/rhumtea/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rhumtea/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0228-summary-ranges](https://github.com/rhumtea/LeetCode/tree/master/0228-summary-ranges) |
@@ -663,6 +664,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/rhumtea/LeetCode/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/rhumtea/LeetCode/tree/master/0463-island-perimeter) |
 | [0566-reshape-the-matrix](https://github.com/rhumtea/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0661-image-smoother](https://github.com/rhumtea/LeetCode/tree/master/0661-image-smoother) |
@@ -673,6 +675,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/rhumtea/LeetCode/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/rhumtea/LeetCode/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/rhumtea/LeetCode/tree/master/0733-flood-fill) |
 | [0871-keys-and-rooms](https://github.com/rhumtea/LeetCode/tree/master/0871-keys-and-rooms) |
@@ -681,6 +684,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/rhumtea/LeetCode/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/rhumtea/LeetCode/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/rhumtea/LeetCode/tree/master/0733-flood-fill) |
 | [0871-keys-and-rooms](https://github.com/rhumtea/LeetCode/tree/master/0871-keys-and-rooms) |
@@ -693,6 +697,7 @@
 ## Union Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/rhumtea/LeetCode/tree/master/0200-number-of-islands) |
 | [2121-find-if-path-exists-in-graph](https://github.com/rhumtea/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/rhumtea/LeetCode/tree/master/2445-reachable-nodes-with-restrictions) |
 ## Graph
