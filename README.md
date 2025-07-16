@@ -88,6 +88,7 @@
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/rhumtea/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/rhumtea/LeetCode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2433-best-poker-hand](https://github.com/rhumtea/LeetCode/tree/master/2433-best-poker-hand) |
+| [2445-reachable-nodes-with-restrictions](https://github.com/rhumtea/LeetCode/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2594-count-pairs-of-similar-strings](https://github.com/rhumtea/LeetCode/tree/master/2594-count-pairs-of-similar-strings) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/rhumtea/LeetCode/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/rhumtea/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -205,6 +206,7 @@
 | [2421-maximum-number-of-pairs-in-array](https://github.com/rhumtea/LeetCode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2427-first-letter-to-appear-twice](https://github.com/rhumtea/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 | [2433-best-poker-hand](https://github.com/rhumtea/LeetCode/tree/master/2433-best-poker-hand) |
+| [2445-reachable-nodes-with-restrictions](https://github.com/rhumtea/LeetCode/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/rhumtea/LeetCode/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [2594-count-pairs-of-similar-strings](https://github.com/rhumtea/LeetCode/tree/master/2594-count-pairs-of-similar-strings) |
 | [2634-minimum-common-value](https://github.com/rhumtea/LeetCode/tree/master/2634-minimum-common-value) |
@@ -675,6 +677,7 @@
 | [0733-flood-fill](https://github.com/rhumtea/LeetCode/tree/master/0733-flood-fill) |
 | [0871-keys-and-rooms](https://github.com/rhumtea/LeetCode/tree/master/0871-keys-and-rooms) |
 | [2121-find-if-path-exists-in-graph](https://github.com/rhumtea/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
+| [2445-reachable-nodes-with-restrictions](https://github.com/rhumtea/LeetCode/tree/master/2445-reachable-nodes-with-restrictions) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -682,6 +685,7 @@
 | [0733-flood-fill](https://github.com/rhumtea/LeetCode/tree/master/0733-flood-fill) |
 | [0871-keys-and-rooms](https://github.com/rhumtea/LeetCode/tree/master/0871-keys-and-rooms) |
 | [2121-find-if-path-exists-in-graph](https://github.com/rhumtea/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
+| [2445-reachable-nodes-with-restrictions](https://github.com/rhumtea/LeetCode/tree/master/2445-reachable-nodes-with-restrictions) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -690,9 +694,15 @@
 |  |
 | ------- |
 | [2121-find-if-path-exists-in-graph](https://github.com/rhumtea/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
+| [2445-reachable-nodes-with-restrictions](https://github.com/rhumtea/LeetCode/tree/master/2445-reachable-nodes-with-restrictions) |
 ## Graph
 |  |
 | ------- |
 | [0871-keys-and-rooms](https://github.com/rhumtea/LeetCode/tree/master/0871-keys-and-rooms) |
 | [2121-find-if-path-exists-in-graph](https://github.com/rhumtea/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
+| [2445-reachable-nodes-with-restrictions](https://github.com/rhumtea/LeetCode/tree/master/2445-reachable-nodes-with-restrictions) |
+## Tree
+|  |
+| ------- |
+| [2445-reachable-nodes-with-restrictions](https://github.com/rhumtea/LeetCode/tree/master/2445-reachable-nodes-with-restrictions) |
 <!---LeetCode Topics End-->
