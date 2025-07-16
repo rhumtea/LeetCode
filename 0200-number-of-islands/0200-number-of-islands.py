@@ -3,19 +3,19 @@ class Solution:
         M, N = len(grid), len(grid[0])
         count = 0
         visit = [[False] * N for _ in range(M)]
-        def bfs(i, j):
+        def bfs(s_i, s_j):
             q = deque()
-            visit[i][j] = True
-            q.append([i, j])
+            visit[s_i][s_j] = True
+            q.append([s_i, s_j])
             while q:
-                a, b = q.popleft()
-                for na, nb in [[a+1, b], [a-1, b], [a, b+1], [a, b-1]]:
-                    if 0 <= na < M and 0 <= nb < N and visit[na][nb] == False and grid[na][nb] == "1":
-                        q.append([na, nb])
-                        visit[na][nb] = True
-        for i in range(M):
-            for j in range(N):
-                if visit[i][j] == False and grid[i][j] == "1":
+                i, j = q.popleft()
+                for ni, nj in [[i+1, j], [i-1, j], [i, j+1], [i, j-1]]:
+                    if 0 <= ni < M and 0 <= nj < N and visit[ni][nj] == False and grid[ni][nj] == "1":
+                        q.append([ni, nj])
+                        visit[ni][nj] = True
+        for s_i in range(M):
+            for s_j in range(N):
+                if visit[s_i][s_j] == False and grid[s_i][s_j] == "1":
                     count += 1
-                    bfs(i, j)
+                    bfs(s_i, s_j)
         return count
