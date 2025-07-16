@@ -1,12 +1,12 @@
 class Solution:
     def canVisitAllRooms(self, rooms: List[List[int]]) -> bool:
-        seen = [False] * len(rooms)
-        seen[0] = True
-        stack = [0]
-        while stack:
-            temp = stack.pop()
-            for ne in rooms[temp]:
-                if not seen[ne]:
-                    seen[ne] = True
-                    stack.append(ne)
-        return all(seen)
+        n = len(rooms)
+        visit = set()
+        def dfs(u):
+            if u in visit:
+                return
+            visit.add(u)
+            for v in rooms[u]:
+                dfs(v)
+        dfs(0)
+        return len(visit) == n
