@@ -10,16 +10,14 @@ class Solution:
                 if d <= bombs[i][2]:
                     adj[i].append(j)
         res = 0
+        def dfs(u):
+            if u in visit:
+                return
+            visit.add(u)
+            for v in adj[u]:
+                dfs(v)
         for i in range(n):
-            cnt = 0
-            q = deque([i])
-            visit = {i}
-            while q:
-                cur = q.popleft()
-                cnt += 1
-                for ne in adj[cur]:
-                    if ne not in visit:
-                        q.append(ne)
-                        visit.add(ne)
-            res = max(res, cnt)
+            visit = set()
+            dfs(i)
+            res = max(res, len(visit))
         return res
