@@ -682,6 +682,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/rhumtea/LeetCode/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/rhumtea/LeetCode/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/rhumtea/LeetCode/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/rhumtea/LeetCode/tree/master/0733-flood-fill) |
@@ -693,6 +694,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/rhumtea/LeetCode/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/rhumtea/LeetCode/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/rhumtea/LeetCode/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/rhumtea/LeetCode/tree/master/0733-flood-fill) |
@@ -722,9 +724,14 @@
 ## Tree
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/rhumtea/LeetCode/tree/master/0112-path-sum) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/rhumtea/LeetCode/tree/master/2445-reachable-nodes-with-restrictions) |
 ## Geometry
 |  |
 | ------- |
 | [2206-detonate-the-maximum-bombs](https://github.com/rhumtea/LeetCode/tree/master/2206-detonate-the-maximum-bombs) |
+## Binary Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/rhumtea/LeetCode/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
