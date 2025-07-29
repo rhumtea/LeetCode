@@ -12,9 +12,8 @@ class Solution:
                 return
             cur_path.append(node.val)
             cur_sum += node.val
-            if not node.left and not node.right:
-                if cur_sum == targetSum:
-                    res.append(list(cur_path))
+            if not node.left and not node.right and cur_sum == targetSum:
+                res.append(list(cur_path))
             dfs(node.left, cur_path, cur_sum)
             dfs(node.right, cur_path, cur_sum)
             cur_path.pop()
