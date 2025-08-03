@@ -17,4 +17,3 @@ class Solution:
                     if dfs(si, sj, -1, -1):
                         return True
         return False
-                    
