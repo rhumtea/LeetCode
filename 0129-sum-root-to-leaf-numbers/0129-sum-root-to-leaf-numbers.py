@@ -13,10 +13,12 @@ class Solution:
                 return
             cur_path.append(node.val)
             cur_str += str(node.val)
+            print(cur_path)
+            print(cur_str)
             if not node.left and not node.right:
                 res += int(cur_str)
             dfs(node.left, cur_path, cur_str)
             dfs(node.right, cur_path, cur_str)
             cur_path.pop()
         dfs(root, [], "")
-        return res
+        return res 
