@@ -6,7 +6,6 @@ class Solution:
             adj[a].append(b)
         visit = [0] * (n+1)
         visit[0] = 1
-        print(adj)
         def dfs(cur, p):
             if visit[cur] == 0:
                 visit[cur] = 3 - visit[p]
@@ -20,7 +19,7 @@ class Solution:
                     if not dfs(ne, cur):
                         return False
             return True
-        for i in range(1, len(visit)):
+        for i in range(1, n+1):
             if visit[i] == 0:
                 if dfs(i, 0) == False:
                     return False
