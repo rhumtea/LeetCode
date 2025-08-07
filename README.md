@@ -192,6 +192,7 @@
 | [1227-number-of-equivalent-domino-pairs](https://github.com/rhumtea/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1297-maximum-number-of-balloons](https://github.com/rhumtea/LeetCode/tree/master/1297-maximum-number-of-balloons) |
 | [1370-count-number-of-nice-subarrays](https://github.com/rhumtea/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/rhumtea/LeetCode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1635-number-of-good-pairs](https://github.com/rhumtea/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/rhumtea/LeetCode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/rhumtea/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -696,6 +697,7 @@
 | [0922-possible-bipartition](https://github.com/rhumtea/LeetCode/tree/master/0922-possible-bipartition) |
 | [0971-shortest-bridge](https://github.com/rhumtea/LeetCode/tree/master/0971-shortest-bridge) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/rhumtea/LeetCode/tree/master/1492-time-needed-to-inform-all-employees) |
+| [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/rhumtea/LeetCode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/rhumtea/LeetCode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [2121-find-if-path-exists-in-graph](https://github.com/rhumtea/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2206-detonate-the-maximum-bombs](https://github.com/rhumtea/LeetCode/tree/master/2206-detonate-the-maximum-bombs) |
@@ -712,6 +714,7 @@
 | [0971-shortest-bridge](https://github.com/rhumtea/LeetCode/tree/master/0971-shortest-bridge) |
 | [1117-as-far-from-land-as-possible](https://github.com/rhumtea/LeetCode/tree/master/1117-as-far-from-land-as-possible) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/rhumtea/LeetCode/tree/master/1492-time-needed-to-inform-all-employees) |
+| [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/rhumtea/LeetCode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/rhumtea/LeetCode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [2121-find-if-path-exists-in-graph](https://github.com/rhumtea/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2206-detonate-the-maximum-bombs](https://github.com/rhumtea/LeetCode/tree/master/2206-detonate-the-maximum-bombs) |
@@ -744,6 +747,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/rhumtea/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rhumtea/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/rhumtea/LeetCode/tree/master/1492-time-needed-to-inform-all-employees) |
+| [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/rhumtea/LeetCode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/rhumtea/LeetCode/tree/master/2445-reachable-nodes-with-restrictions) |
 ## Geometry
 |  |
