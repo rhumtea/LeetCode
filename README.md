@@ -185,6 +185,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/rhumtea/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/rhumtea/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/rhumtea/LeetCode/tree/master/0645-set-mismatch) |
+| [0652-find-duplicate-subtrees](https://github.com/rhumtea/LeetCode/tree/master/0652-find-duplicate-subtrees) |
 | [0837-most-common-word](https://github.com/rhumtea/LeetCode/tree/master/0837-most-common-word) |
 | [0940-fruit-into-baskets](https://github.com/rhumtea/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/rhumtea/LeetCode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
@@ -694,6 +695,7 @@
 | [0200-number-of-islands](https://github.com/rhumtea/LeetCode/tree/master/0200-number-of-islands) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rhumtea/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0463-island-perimeter](https://github.com/rhumtea/LeetCode/tree/master/0463-island-perimeter) |
+| [0652-find-duplicate-subtrees](https://github.com/rhumtea/LeetCode/tree/master/0652-find-duplicate-subtrees) |
 | [0733-flood-fill](https://github.com/rhumtea/LeetCode/tree/master/0733-flood-fill) |
 | [0871-keys-and-rooms](https://github.com/rhumtea/LeetCode/tree/master/0871-keys-and-rooms) |
 | [0922-possible-bipartition](https://github.com/rhumtea/LeetCode/tree/master/0922-possible-bipartition) |
@@ -749,6 +751,7 @@
 | [0113-path-sum-ii](https://github.com/rhumtea/LeetCode/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/rhumtea/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rhumtea/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0652-find-duplicate-subtrees](https://github.com/rhumtea/LeetCode/tree/master/0652-find-duplicate-subtrees) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/rhumtea/LeetCode/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/rhumtea/LeetCode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/rhumtea/LeetCode/tree/master/2445-reachable-nodes-with-restrictions) |
@@ -763,4 +766,5 @@
 | [0113-path-sum-ii](https://github.com/rhumtea/LeetCode/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/rhumtea/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rhumtea/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0652-find-duplicate-subtrees](https://github.com/rhumtea/LeetCode/tree/master/0652-find-duplicate-subtrees) |
 <!---LeetCode Topics End-->
