@@ -81,6 +81,7 @@
 | [1848-sum-of-unique-elements](https://github.com/rhumtea/LeetCode/tree/master/1848-sum-of-unique-elements) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/rhumtea/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1962-single-threaded-cpu](https://github.com/rhumtea/LeetCode/tree/master/1962-single-threaded-cpu) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/rhumtea/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/rhumtea/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/rhumtea/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/rhumtea/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
@@ -683,6 +684,7 @@
 | [0971-shortest-bridge](https://github.com/rhumtea/LeetCode/tree/master/0971-shortest-bridge) |
 | [1117-as-far-from-land-as-possible](https://github.com/rhumtea/LeetCode/tree/master/1117-as-far-from-land-as-possible) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/rhumtea/LeetCode/tree/master/1663-detect-cycles-in-2d-grid) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/rhumtea/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -716,6 +718,7 @@
 | [1492-time-needed-to-inform-all-employees](https://github.com/rhumtea/LeetCode/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/rhumtea/LeetCode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/rhumtea/LeetCode/tree/master/1663-detect-cycles-in-2d-grid) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/rhumtea/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2121-find-if-path-exists-in-graph](https://github.com/rhumtea/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2206-detonate-the-maximum-bombs](https://github.com/rhumtea/LeetCode/tree/master/2206-detonate-the-maximum-bombs) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/rhumtea/LeetCode/tree/master/2445-reachable-nodes-with-restrictions) |
