@@ -16,9 +16,9 @@ class Solution:
             a = dfs(node.left)
             b = dfs(node.right)
             t = f"{node.val}, {a}, {b}"
-            cnt[t] += 1
-            if cnt[t] == 2:
+            if cnt[t] == 1:
                 res.append(node)
+            cnt[t] += 1
             return t
         dfs(root)
         return res
