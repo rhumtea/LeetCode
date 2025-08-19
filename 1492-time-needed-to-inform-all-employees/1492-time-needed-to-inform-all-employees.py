@@ -13,4 +13,3 @@ class Solution:
                 time = max(time, t)
             return time + informTime[cur]
         return dfs(headID, -1)
-        
