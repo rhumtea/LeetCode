@@ -15,4 +15,4 @@ class Solution:
             for v in adj[u]:
                 dfs(v)
         dfs(0)
-        return len(visit)
+        return len(visit) 
