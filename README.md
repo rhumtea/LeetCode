@@ -584,6 +584,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/rhumtea/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/rhumtea/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/rhumtea/LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0744-network-delay-time](https://github.com/rhumtea/LeetCode/tree/master/0744-network-delay-time) |
 | [1304-longest-happy-string](https://github.com/rhumtea/LeetCode/tree/master/1304-longest-happy-string) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/rhumtea/LeetCode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1762-furthest-building-you-can-reach](https://github.com/rhumtea/LeetCode/tree/master/1762-furthest-building-you-can-reach) |
@@ -701,6 +702,7 @@
 | [0547-number-of-provinces](https://github.com/rhumtea/LeetCode/tree/master/0547-number-of-provinces) |
 | [0652-find-duplicate-subtrees](https://github.com/rhumtea/LeetCode/tree/master/0652-find-duplicate-subtrees) |
 | [0733-flood-fill](https://github.com/rhumtea/LeetCode/tree/master/0733-flood-fill) |
+| [0744-network-delay-time](https://github.com/rhumtea/LeetCode/tree/master/0744-network-delay-time) |
 | [0871-keys-and-rooms](https://github.com/rhumtea/LeetCode/tree/master/0871-keys-and-rooms) |
 | [0922-possible-bipartition](https://github.com/rhumtea/LeetCode/tree/master/0922-possible-bipartition) |
 | [0971-shortest-bridge](https://github.com/rhumtea/LeetCode/tree/master/0971-shortest-bridge) |
@@ -719,6 +721,7 @@
 | [0463-island-perimeter](https://github.com/rhumtea/LeetCode/tree/master/0463-island-perimeter) |
 | [0547-number-of-provinces](https://github.com/rhumtea/LeetCode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/rhumtea/LeetCode/tree/master/0733-flood-fill) |
+| [0744-network-delay-time](https://github.com/rhumtea/LeetCode/tree/master/0744-network-delay-time) |
 | [0871-keys-and-rooms](https://github.com/rhumtea/LeetCode/tree/master/0871-keys-and-rooms) |
 | [0922-possible-bipartition](https://github.com/rhumtea/LeetCode/tree/master/0922-possible-bipartition) |
 | [0971-shortest-bridge](https://github.com/rhumtea/LeetCode/tree/master/0971-shortest-bridge) |
@@ -747,6 +750,7 @@
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/rhumtea/LeetCode/tree/master/0547-number-of-provinces) |
+| [0744-network-delay-time](https://github.com/rhumtea/LeetCode/tree/master/0744-network-delay-time) |
 | [0871-keys-and-rooms](https://github.com/rhumtea/LeetCode/tree/master/0871-keys-and-rooms) |
 | [0922-possible-bipartition](https://github.com/rhumtea/LeetCode/tree/master/0922-possible-bipartition) |
 | [2121-find-if-path-exists-in-graph](https://github.com/rhumtea/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
@@ -775,4 +779,8 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/rhumtea/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rhumtea/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/rhumtea/LeetCode/tree/master/0652-find-duplicate-subtrees) |
+## Shortest Path
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/rhumtea/LeetCode/tree/master/0744-network-delay-time) |
 <!---LeetCode Topics End-->
