@@ -63,6 +63,7 @@
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/rhumtea/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1117-as-far-from-land-as-possible](https://github.com/rhumtea/LeetCode/tree/master/1117-as-far-from-land-as-possible) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/rhumtea/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1325-path-with-maximum-probability](https://github.com/rhumtea/LeetCode/tree/master/1325-path-with-maximum-probability) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/rhumtea/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1370-count-number-of-nice-subarrays](https://github.com/rhumtea/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/rhumtea/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
@@ -586,6 +587,7 @@
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/rhumtea/LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0744-network-delay-time](https://github.com/rhumtea/LeetCode/tree/master/0744-network-delay-time) |
 | [1304-longest-happy-string](https://github.com/rhumtea/LeetCode/tree/master/1304-longest-happy-string) |
+| [1325-path-with-maximum-probability](https://github.com/rhumtea/LeetCode/tree/master/1325-path-with-maximum-probability) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/rhumtea/LeetCode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1762-furthest-building-you-can-reach](https://github.com/rhumtea/LeetCode/tree/master/1762-furthest-building-you-can-reach) |
 | [1962-single-threaded-cpu](https://github.com/rhumtea/LeetCode/tree/master/1962-single-threaded-cpu) |
@@ -753,6 +755,7 @@
 | [0744-network-delay-time](https://github.com/rhumtea/LeetCode/tree/master/0744-network-delay-time) |
 | [0871-keys-and-rooms](https://github.com/rhumtea/LeetCode/tree/master/0871-keys-and-rooms) |
 | [0922-possible-bipartition](https://github.com/rhumtea/LeetCode/tree/master/0922-possible-bipartition) |
+| [1325-path-with-maximum-probability](https://github.com/rhumtea/LeetCode/tree/master/1325-path-with-maximum-probability) |
 | [2121-find-if-path-exists-in-graph](https://github.com/rhumtea/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2206-detonate-the-maximum-bombs](https://github.com/rhumtea/LeetCode/tree/master/2206-detonate-the-maximum-bombs) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/rhumtea/LeetCode/tree/master/2445-reachable-nodes-with-restrictions) |
@@ -783,4 +786,5 @@
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/rhumtea/LeetCode/tree/master/0744-network-delay-time) |
+| [1325-path-with-maximum-probability](https://github.com/rhumtea/LeetCode/tree/master/1325-path-with-maximum-probability) |
 <!---LeetCode Topics End-->
