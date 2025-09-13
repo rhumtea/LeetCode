@@ -708,6 +708,7 @@
 | [0733-flood-fill](https://github.com/rhumtea/LeetCode/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/rhumtea/LeetCode/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/rhumtea/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0820-find-eventual-safe-states](https://github.com/rhumtea/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/rhumtea/LeetCode/tree/master/0871-keys-and-rooms) |
 | [0922-possible-bipartition](https://github.com/rhumtea/LeetCode/tree/master/0922-possible-bipartition) |
 | [0971-shortest-bridge](https://github.com/rhumtea/LeetCode/tree/master/0971-shortest-bridge) |
@@ -728,6 +729,7 @@
 | [0733-flood-fill](https://github.com/rhumtea/LeetCode/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/rhumtea/LeetCode/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/rhumtea/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0820-find-eventual-safe-states](https://github.com/rhumtea/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/rhumtea/LeetCode/tree/master/0871-keys-and-rooms) |
 | [0922-possible-bipartition](https://github.com/rhumtea/LeetCode/tree/master/0922-possible-bipartition) |
 | [0971-shortest-bridge](https://github.com/rhumtea/LeetCode/tree/master/0971-shortest-bridge) |
@@ -758,6 +760,7 @@
 | [0547-number-of-provinces](https://github.com/rhumtea/LeetCode/tree/master/0547-number-of-provinces) |
 | [0744-network-delay-time](https://github.com/rhumtea/LeetCode/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/rhumtea/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0820-find-eventual-safe-states](https://github.com/rhumtea/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/rhumtea/LeetCode/tree/master/0871-keys-and-rooms) |
 | [0922-possible-bipartition](https://github.com/rhumtea/LeetCode/tree/master/0922-possible-bipartition) |
 | [1325-path-with-maximum-probability](https://github.com/rhumtea/LeetCode/tree/master/1325-path-with-maximum-probability) |
@@ -793,4 +796,8 @@
 | [0744-network-delay-time](https://github.com/rhumtea/LeetCode/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/rhumtea/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1325-path-with-maximum-probability](https://github.com/rhumtea/LeetCode/tree/master/1325-path-with-maximum-probability) |
+## Topological Sort
+|  |
+| ------- |
+| [0820-find-eventual-safe-states](https://github.com/rhumtea/LeetCode/tree/master/0820-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
