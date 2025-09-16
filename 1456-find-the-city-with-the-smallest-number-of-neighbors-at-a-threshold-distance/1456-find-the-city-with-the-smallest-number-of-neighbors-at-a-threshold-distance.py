@@ -1,5 +1,6 @@
 class Solution:
     def findTheCity(self, n: int, edges: List[List[int]], distanceThreshold: int) -> int:
+        # use Dijkstra -> O(n^3 * log n)
         res = [0] * n
         adj = defaultdict(list)
         for u, v, w in edges:
@@ -26,5 +27,3 @@ class Solution:
             if res[i] <= res[ans]:
                 ans = i
         return ans
-
-        
