@@ -42,6 +42,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/rhumtea/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/rhumtea/LeetCode/tree/master/0645-set-mismatch) |
 | [0661-image-smoother](https://github.com/rhumtea/LeetCode/tree/master/0661-image-smoother) |
+| [0695-max-area-of-island](https://github.com/rhumtea/LeetCode/tree/master/0695-max-area-of-island) |
 | [0713-subarray-product-less-than-k](https://github.com/rhumtea/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/rhumtea/LeetCode/tree/master/0724-find-pivot-index) |
 | [0729-my-calendar-i](https://github.com/rhumtea/LeetCode/tree/master/0729-my-calendar-i) |
@@ -692,6 +693,7 @@
 | [0463-island-perimeter](https://github.com/rhumtea/LeetCode/tree/master/0463-island-perimeter) |
 | [0566-reshape-the-matrix](https://github.com/rhumtea/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0661-image-smoother](https://github.com/rhumtea/LeetCode/tree/master/0661-image-smoother) |
+| [0695-max-area-of-island](https://github.com/rhumtea/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/rhumtea/LeetCode/tree/master/0733-flood-fill) |
 | [0777-toeplitz-matrix](https://github.com/rhumtea/LeetCode/tree/master/0777-toeplitz-matrix) |
 | [0861-flipping-an-image](https://github.com/rhumtea/LeetCode/tree/master/0861-flipping-an-image) |
@@ -713,6 +715,7 @@
 | [0547-number-of-provinces](https://github.com/rhumtea/LeetCode/tree/master/0547-number-of-provinces) |
 | [0652-find-duplicate-subtrees](https://github.com/rhumtea/LeetCode/tree/master/0652-find-duplicate-subtrees) |
 | [0684-redundant-connection](https://github.com/rhumtea/LeetCode/tree/master/0684-redundant-connection) |
+| [0695-max-area-of-island](https://github.com/rhumtea/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/rhumtea/LeetCode/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/rhumtea/LeetCode/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/rhumtea/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -735,6 +738,7 @@
 | [0463-island-perimeter](https://github.com/rhumtea/LeetCode/tree/master/0463-island-perimeter) |
 | [0547-number-of-provinces](https://github.com/rhumtea/LeetCode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/rhumtea/LeetCode/tree/master/0684-redundant-connection) |
+| [0695-max-area-of-island](https://github.com/rhumtea/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/rhumtea/LeetCode/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/rhumtea/LeetCode/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/rhumtea/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -760,6 +764,7 @@
 | [0200-number-of-islands](https://github.com/rhumtea/LeetCode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/rhumtea/LeetCode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/rhumtea/LeetCode/tree/master/0684-redundant-connection) |
+| [0695-max-area-of-island](https://github.com/rhumtea/LeetCode/tree/master/0695-max-area-of-island) |
 | [0922-possible-bipartition](https://github.com/rhumtea/LeetCode/tree/master/0922-possible-bipartition) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/rhumtea/LeetCode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [2121-find-if-path-exists-in-graph](https://github.com/rhumtea/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
