@@ -58,6 +58,7 @@
 | [0940-fruit-into-baskets](https://github.com/rhumtea/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/rhumtea/LeetCode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [0971-shortest-bridge](https://github.com/rhumtea/LeetCode/tree/master/0971-shortest-bridge) |
+| [0999-regions-cut-by-slashes](https://github.com/rhumtea/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/rhumtea/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1032-satisfiability-of-equality-equations](https://github.com/rhumtea/LeetCode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1046-max-consecutive-ones-iii](https://github.com/rhumtea/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
@@ -195,6 +196,7 @@
 | [0940-fruit-into-baskets](https://github.com/rhumtea/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/rhumtea/LeetCode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/rhumtea/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [0999-regions-cut-by-slashes](https://github.com/rhumtea/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/rhumtea/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/rhumtea/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/rhumtea/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -702,6 +704,7 @@
 | [0861-flipping-an-image](https://github.com/rhumtea/LeetCode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/rhumtea/LeetCode/tree/master/0898-transpose-matrix) |
 | [0971-shortest-bridge](https://github.com/rhumtea/LeetCode/tree/master/0971-shortest-bridge) |
+| [0999-regions-cut-by-slashes](https://github.com/rhumtea/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1117-as-far-from-land-as-possible](https://github.com/rhumtea/LeetCode/tree/master/1117-as-far-from-land-as-possible) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/rhumtea/LeetCode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/rhumtea/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
@@ -727,6 +730,7 @@
 | [0922-possible-bipartition](https://github.com/rhumtea/LeetCode/tree/master/0922-possible-bipartition) |
 | [0971-shortest-bridge](https://github.com/rhumtea/LeetCode/tree/master/0971-shortest-bridge) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/rhumtea/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [0999-regions-cut-by-slashes](https://github.com/rhumtea/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/rhumtea/LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/rhumtea/LeetCode/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/rhumtea/LeetCode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
@@ -751,6 +755,7 @@
 | [0871-keys-and-rooms](https://github.com/rhumtea/LeetCode/tree/master/0871-keys-and-rooms) |
 | [0922-possible-bipartition](https://github.com/rhumtea/LeetCode/tree/master/0922-possible-bipartition) |
 | [0971-shortest-bridge](https://github.com/rhumtea/LeetCode/tree/master/0971-shortest-bridge) |
+| [0999-regions-cut-by-slashes](https://github.com/rhumtea/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1117-as-far-from-land-as-possible](https://github.com/rhumtea/LeetCode/tree/master/1117-as-far-from-land-as-possible) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/rhumtea/LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/rhumtea/LeetCode/tree/master/1492-time-needed-to-inform-all-employees) |
@@ -773,6 +778,7 @@
 | [0695-max-area-of-island](https://github.com/rhumtea/LeetCode/tree/master/0695-max-area-of-island) |
 | [0922-possible-bipartition](https://github.com/rhumtea/LeetCode/tree/master/0922-possible-bipartition) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/rhumtea/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [0999-regions-cut-by-slashes](https://github.com/rhumtea/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1032-satisfiability-of-equality-equations](https://github.com/rhumtea/LeetCode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/rhumtea/LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/rhumtea/LeetCode/tree/master/1663-detect-cycles-in-2d-grid) |
