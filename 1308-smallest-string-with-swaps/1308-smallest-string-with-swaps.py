@@ -2,7 +2,6 @@ class Solution:
     def smallestStringWithSwaps(self, s: str, pairs: List[List[int]]) -> str:
         n = len(s)
         p = list(range(n))
-        size = [1] * n
         R = [0] * n
         def find(u):
             while u != p[u]:
@@ -15,7 +14,6 @@ class Solution:
             if R[u] < R[v]:
                 u, v = v, u
             p[v] = u
-            size[u] += size[v]
             if R[u] == R[v]:
                 R[u] += 1
             return True
