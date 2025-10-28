@@ -91,6 +91,7 @@
 | [2163-kth-distinct-string-in-an-array](https://github.com/rhumtea/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/rhumtea/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2206-detonate-the-maximum-bombs](https://github.com/rhumtea/LeetCode/tree/master/2206-detonate-the-maximum-bombs) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/rhumtea/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/rhumtea/LeetCode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2308-divide-array-into-equal-pairs](https://github.com/rhumtea/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/rhumtea/LeetCode/tree/master/2312-most-frequent-number-following-key-in-an-array) |
@@ -158,6 +159,7 @@
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/rhumtea/LeetCode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/rhumtea/LeetCode/tree/master/1844-maximum-number-of-balls-in-a-box) |
 | [2206-detonate-the-maximum-bombs](https://github.com/rhumtea/LeetCode/tree/master/2206-detonate-the-maximum-bombs) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/rhumtea/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/rhumtea/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2630-alternating-digit-sum](https://github.com/rhumtea/LeetCode/tree/master/2630-alternating-digit-sum) |
 | [2831-number-of-beautiful-pairs](https://github.com/rhumtea/LeetCode/tree/master/2831-number-of-beautiful-pairs) |
@@ -351,6 +353,7 @@
 | [2163-kth-distinct-string-in-an-array](https://github.com/rhumtea/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/rhumtea/LeetCode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/rhumtea/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/rhumtea/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/rhumtea/LeetCode/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/rhumtea/LeetCode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2427-first-letter-to-appear-twice](https://github.com/rhumtea/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
@@ -708,6 +711,7 @@
 | [1117-as-far-from-land-as-possible](https://github.com/rhumtea/LeetCode/tree/master/1117-as-far-from-land-as-possible) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/rhumtea/LeetCode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/rhumtea/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/rhumtea/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 ## Depth-First Search
 |  |
 | ------- |
