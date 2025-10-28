@@ -29,8 +29,8 @@ class Solution:
             pos_mp[find(i)].append(i)
         for key in char_mp:
             char_mp[key].sort()
-        res = list(range(n))
+        res = [''] * n
         for key in pos_mp:
-            for i in range(len(pos_mp[key])):
-                res[pos_mp[key][i]] = char_mp[key][i]
+            for i, ch in zip(pos_mp[key], char_mp[key]):
+                res[i] = ch
         return ''.join(res)
