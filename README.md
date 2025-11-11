@@ -80,6 +80,7 @@
 | [1663-detect-cycles-in-2d-grid](https://github.com/rhumtea/LeetCode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1675-magnetic-force-between-two-balls](https://github.com/rhumtea/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/rhumtea/LeetCode/tree/master/1693-sum-of-all-odd-length-subarrays) |
+| [1706-min-cost-to-connect-all-points](https://github.com/rhumtea/LeetCode/tree/master/1706-min-cost-to-connect-all-points) |
 | [1762-furthest-building-you-can-reach](https://github.com/rhumtea/LeetCode/tree/master/1762-furthest-building-you-can-reach) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/rhumtea/LeetCode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/rhumtea/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -793,6 +794,7 @@
 | [1308-smallest-string-with-swaps](https://github.com/rhumtea/LeetCode/tree/master/1308-smallest-string-with-swaps) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/rhumtea/LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/rhumtea/LeetCode/tree/master/1663-detect-cycles-in-2d-grid) |
+| [1706-min-cost-to-connect-all-points](https://github.com/rhumtea/LeetCode/tree/master/1706-min-cost-to-connect-all-points) |
 | [2121-find-if-path-exists-in-graph](https://github.com/rhumtea/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/rhumtea/LeetCode/tree/master/2445-reachable-nodes-with-restrictions) |
 ## Graph
@@ -810,6 +812,7 @@
 | [1325-path-with-maximum-probability](https://github.com/rhumtea/LeetCode/tree/master/1325-path-with-maximum-probability) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/rhumtea/LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/rhumtea/LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1706-min-cost-to-connect-all-points](https://github.com/rhumtea/LeetCode/tree/master/1706-min-cost-to-connect-all-points) |
 | [2121-find-if-path-exists-in-graph](https://github.com/rhumtea/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2206-detonate-the-maximum-bombs](https://github.com/rhumtea/LeetCode/tree/master/2206-detonate-the-maximum-bombs) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/rhumtea/LeetCode/tree/master/2445-reachable-nodes-with-restrictions) |
@@ -847,4 +850,8 @@
 |  |
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/rhumtea/LeetCode/tree/master/0820-find-eventual-safe-states) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1706-min-cost-to-connect-all-points](https://github.com/rhumtea/LeetCode/tree/master/1706-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
