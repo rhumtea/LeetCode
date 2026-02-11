@@ -100,6 +100,7 @@
 | [2329-maximum-product-after-k-increments](https://github.com/rhumtea/LeetCode/tree/master/2329-maximum-product-after-k-increments) |
 | [2331-intersection-of-multiple-arrays](https://github.com/rhumtea/LeetCode/tree/master/2331-intersection-of-multiple-arrays) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/rhumtea/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2404-most-frequent-even-element](https://github.com/rhumtea/LeetCode/tree/master/2404-most-frequent-even-element) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/rhumtea/LeetCode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2429-design-a-food-rating-system](https://github.com/rhumtea/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2433-best-poker-hand](https://github.com/rhumtea/LeetCode/tree/master/2433-best-poker-hand) |
@@ -224,6 +225,7 @@
 | [2331-intersection-of-multiple-arrays](https://github.com/rhumtea/LeetCode/tree/master/2331-intersection-of-multiple-arrays) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/rhumtea/LeetCode/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/rhumtea/LeetCode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
+| [2404-most-frequent-even-element](https://github.com/rhumtea/LeetCode/tree/master/2404-most-frequent-even-element) |
 | [2413-smallest-number-in-infinite-set](https://github.com/rhumtea/LeetCode/tree/master/2413-smallest-number-in-infinite-set) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/rhumtea/LeetCode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2427-first-letter-to-appear-twice](https://github.com/rhumtea/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
@@ -434,6 +436,7 @@
 | [2331-intersection-of-multiple-arrays](https://github.com/rhumtea/LeetCode/tree/master/2331-intersection-of-multiple-arrays) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/rhumtea/LeetCode/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/rhumtea/LeetCode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
+| [2404-most-frequent-even-element](https://github.com/rhumtea/LeetCode/tree/master/2404-most-frequent-even-element) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/rhumtea/LeetCode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2427-first-letter-to-appear-twice](https://github.com/rhumtea/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 | [2433-best-poker-hand](https://github.com/rhumtea/LeetCode/tree/master/2433-best-poker-hand) |
