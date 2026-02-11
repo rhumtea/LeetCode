@@ -70,6 +70,7 @@
 | [1325-path-with-maximum-probability](https://github.com/rhumtea/LeetCode/tree/master/1325-path-with-maximum-probability) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/rhumtea/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1370-count-number-of-nice-subarrays](https://github.com/rhumtea/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/rhumtea/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/rhumtea/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/rhumtea/LeetCode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/rhumtea/LeetCode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
@@ -208,6 +209,7 @@
 | [1297-maximum-number-of-balloons](https://github.com/rhumtea/LeetCode/tree/master/1297-maximum-number-of-balloons) |
 | [1308-smallest-string-with-swaps](https://github.com/rhumtea/LeetCode/tree/master/1308-smallest-string-with-swaps) |
 | [1370-count-number-of-nice-subarrays](https://github.com/rhumtea/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/rhumtea/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/rhumtea/LeetCode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1635-number-of-good-pairs](https://github.com/rhumtea/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/rhumtea/LeetCode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
@@ -417,6 +419,7 @@
 | [1227-number-of-equivalent-domino-pairs](https://github.com/rhumtea/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1297-maximum-number-of-balloons](https://github.com/rhumtea/LeetCode/tree/master/1297-maximum-number-of-balloons) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/rhumtea/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/rhumtea/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/rhumtea/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1635-number-of-good-pairs](https://github.com/rhumtea/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1708-design-parking-system](https://github.com/rhumtea/LeetCode/tree/master/1708-design-parking-system) |
