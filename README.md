@@ -210,6 +210,7 @@
 | [1297-maximum-number-of-balloons](https://github.com/rhumtea/LeetCode/tree/master/1297-maximum-number-of-balloons) |
 | [1308-smallest-string-with-swaps](https://github.com/rhumtea/LeetCode/tree/master/1308-smallest-string-with-swaps) |
 | [1370-count-number-of-nice-subarrays](https://github.com/rhumtea/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1370-increasing-decreasing-string](https://github.com/rhumtea/LeetCode/tree/master/1370-increasing-decreasing-string) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/rhumtea/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1399-count-largest-group](https://github.com/rhumtea/LeetCode/tree/master/1399-count-largest-group) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/rhumtea/LeetCode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
@@ -355,6 +356,7 @@
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/rhumtea/LeetCode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1321-get-equal-substrings-within-budget](https://github.com/rhumtea/LeetCode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/rhumtea/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1370-increasing-decreasing-string](https://github.com/rhumtea/LeetCode/tree/master/1370-increasing-decreasing-string) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/rhumtea/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/rhumtea/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/rhumtea/LeetCode/tree/master/1823-determine-if-string-halves-are-alike) |
@@ -421,6 +423,7 @@
 | [1227-number-of-equivalent-domino-pairs](https://github.com/rhumtea/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1297-maximum-number-of-balloons](https://github.com/rhumtea/LeetCode/tree/master/1297-maximum-number-of-balloons) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/rhumtea/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1370-increasing-decreasing-string](https://github.com/rhumtea/LeetCode/tree/master/1370-increasing-decreasing-string) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/rhumtea/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1399-count-largest-group](https://github.com/rhumtea/LeetCode/tree/master/1399-count-largest-group) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/rhumtea/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
