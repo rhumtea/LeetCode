@@ -133,6 +133,7 @@
 | [3324-split-the-array](https://github.com/rhumtea/LeetCode/tree/master/3324-split-the-array) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/rhumtea/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3778-transform-array-by-parity](https://github.com/rhumtea/LeetCode/tree/master/3778-transform-array-by-parity) |
+| [3921-score-validator](https://github.com/rhumtea/LeetCode/tree/master/3921-score-validator) |
 | [3925-concatenate-array-with-reverse](https://github.com/rhumtea/LeetCode/tree/master/3925-concatenate-array-with-reverse) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/rhumtea/LeetCode/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Math
@@ -324,6 +325,7 @@
 | [2639-separate-the-digits-in-an-array](https://github.com/rhumtea/LeetCode/tree/master/2639-separate-the-digits-in-an-array) |
 | [2886-faulty-keyboard](https://github.com/rhumtea/LeetCode/tree/master/2886-faulty-keyboard) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/rhumtea/LeetCode/tree/master/3220-count-tested-devices-after-test-operations) |
+| [3921-score-validator](https://github.com/rhumtea/LeetCode/tree/master/3921-score-validator) |
 | [3925-concatenate-array-with-reverse](https://github.com/rhumtea/LeetCode/tree/master/3925-concatenate-array-with-reverse) |
 ## String
 |  |
@@ -387,6 +389,7 @@
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/rhumtea/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/rhumtea/LeetCode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/rhumtea/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [3921-score-validator](https://github.com/rhumtea/LeetCode/tree/master/3921-score-validator) |
 ## Sorting
 |  |
 | ------- |
