@@ -136,6 +136,7 @@
 | [3917-count-indices-with-opposite-parity](https://github.com/rhumtea/LeetCode/tree/master/3917-count-indices-with-opposite-parity) |
 | [3921-score-validator](https://github.com/rhumtea/LeetCode/tree/master/3921-score-validator) |
 | [3925-concatenate-array-with-reverse](https://github.com/rhumtea/LeetCode/tree/master/3925-concatenate-array-with-reverse) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/rhumtea/LeetCode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/rhumtea/LeetCode/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Math
 |  |
@@ -283,6 +284,7 @@
 | [2634-minimum-common-value](https://github.com/rhumtea/LeetCode/tree/master/2634-minimum-common-value) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/rhumtea/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/rhumtea/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/rhumtea/LeetCode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/rhumtea/LeetCode/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Binary Search
 |  |
