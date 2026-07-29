@@ -133,6 +133,7 @@
 | [3324-split-the-array](https://github.com/rhumtea/LeetCode/tree/master/3324-split-the-array) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/rhumtea/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3778-transform-array-by-parity](https://github.com/rhumtea/LeetCode/tree/master/3778-transform-array-by-parity) |
+| [3880-minimum-absolute-difference-between-two-values](https://github.com/rhumtea/LeetCode/tree/master/3880-minimum-absolute-difference-between-two-values) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/rhumtea/LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3903-smallest-stable-index-i](https://github.com/rhumtea/LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [3912-valid-elements-in-an-array](https://github.com/rhumtea/LeetCode/tree/master/3912-valid-elements-in-an-array) |
@@ -498,6 +499,7 @@
 |  |
 | ------- |
 | [2998-count-symmetric-integers](https://github.com/rhumtea/LeetCode/tree/master/2998-count-symmetric-integers) |
+| [3880-minimum-absolute-difference-between-two-values](https://github.com/rhumtea/LeetCode/tree/master/3880-minimum-absolute-difference-between-two-values) |
 ## Prefix Sum
 |  |
 | ------- |
