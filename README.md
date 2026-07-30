@@ -133,6 +133,7 @@
 | [3324-split-the-array](https://github.com/rhumtea/LeetCode/tree/master/3324-split-the-array) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/rhumtea/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3778-transform-array-by-parity](https://github.com/rhumtea/LeetCode/tree/master/3778-transform-array-by-parity) |
+| [3866-first-unique-even-element](https://github.com/rhumtea/LeetCode/tree/master/3866-first-unique-even-element) |
 | [3875-construct-uniform-parity-array-i](https://github.com/rhumtea/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/rhumtea/LeetCode/tree/master/3880-minimum-absolute-difference-between-two-values) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/rhumtea/LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
@@ -262,6 +263,7 @@
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/rhumtea/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/rhumtea/LeetCode/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/rhumtea/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3866-first-unique-even-element](https://github.com/rhumtea/LeetCode/tree/master/3866-first-unique-even-element) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/rhumtea/LeetCode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/rhumtea/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Two Pointers
@@ -478,6 +480,7 @@
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/rhumtea/LeetCode/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/rhumtea/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3778-transform-array-by-parity](https://github.com/rhumtea/LeetCode/tree/master/3778-transform-array-by-parity) |
+| [3866-first-unique-even-element](https://github.com/rhumtea/LeetCode/tree/master/3866-first-unique-even-element) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/rhumtea/LeetCode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/rhumtea/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Greedy
