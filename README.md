@@ -133,6 +133,7 @@
 | [3324-split-the-array](https://github.com/rhumtea/LeetCode/tree/master/3324-split-the-array) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/rhumtea/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3778-transform-array-by-parity](https://github.com/rhumtea/LeetCode/tree/master/3778-transform-array-by-parity) |
+| [3861-minimum-capacity-box](https://github.com/rhumtea/LeetCode/tree/master/3861-minimum-capacity-box) |
 | [3866-first-unique-even-element](https://github.com/rhumtea/LeetCode/tree/master/3866-first-unique-even-element) |
 | [3875-construct-uniform-parity-array-i](https://github.com/rhumtea/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/rhumtea/LeetCode/tree/master/3880-minimum-absolute-difference-between-two-values) |
