@@ -132,6 +132,7 @@
 | [3242-count-elements-with-maximum-frequency](https://github.com/rhumtea/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3324-split-the-array](https://github.com/rhumtea/LeetCode/tree/master/3324-split-the-array) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/rhumtea/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
+| [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/rhumtea/LeetCode/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3778-transform-array-by-parity](https://github.com/rhumtea/LeetCode/tree/master/3778-transform-array-by-parity) |
 | [3833-count-dominant-indices](https://github.com/rhumtea/LeetCode/tree/master/3833-count-dominant-indices) |
 | [3838-weighted-word-mapping](https://github.com/rhumtea/LeetCode/tree/master/3838-weighted-word-mapping) |
@@ -435,6 +436,7 @@
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/rhumtea/LeetCode/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/rhumtea/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/rhumtea/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/rhumtea/LeetCode/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3778-transform-array-by-parity](https://github.com/rhumtea/LeetCode/tree/master/3778-transform-array-by-parity) |
 | [3842-toggle-light-bulbs](https://github.com/rhumtea/LeetCode/tree/master/3842-toggle-light-bulbs) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/rhumtea/LeetCode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
