@@ -132,6 +132,7 @@
 | [3242-count-elements-with-maximum-frequency](https://github.com/rhumtea/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3324-split-the-array](https://github.com/rhumtea/LeetCode/tree/master/3324-split-the-array) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/rhumtea/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
+| [3731-find-missing-elements](https://github.com/rhumtea/LeetCode/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/rhumtea/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/rhumtea/LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3745-maximize-expression-of-three-elements](https://github.com/rhumtea/LeetCode/tree/master/3745-maximize-expression-of-three-elements) |
@@ -272,6 +273,7 @@
 | [3324-split-the-array](https://github.com/rhumtea/LeetCode/tree/master/3324-split-the-array) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/rhumtea/LeetCode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/rhumtea/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
+| [3731-find-missing-elements](https://github.com/rhumtea/LeetCode/tree/master/3731-find-missing-elements) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/rhumtea/LeetCode/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/rhumtea/LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/rhumtea/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -442,6 +444,7 @@
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/rhumtea/LeetCode/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/rhumtea/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/rhumtea/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3731-find-missing-elements](https://github.com/rhumtea/LeetCode/tree/master/3731-find-missing-elements) |
 | [3745-maximize-expression-of-three-elements](https://github.com/rhumtea/LeetCode/tree/master/3745-maximize-expression-of-three-elements) |
 | [3769-sort-integers-by-binary-reflection](https://github.com/rhumtea/LeetCode/tree/master/3769-sort-integers-by-binary-reflection) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/rhumtea/LeetCode/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
