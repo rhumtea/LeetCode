@@ -132,6 +132,7 @@
 | [3242-count-elements-with-maximum-frequency](https://github.com/rhumtea/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3324-split-the-array](https://github.com/rhumtea/LeetCode/tree/master/3324-split-the-array) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/rhumtea/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
+| [3697-compute-decimal-representation](https://github.com/rhumtea/LeetCode/tree/master/3697-compute-decimal-representation) |
 | [3701-compute-alternating-sum](https://github.com/rhumtea/LeetCode/tree/master/3701-compute-alternating-sum) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/rhumtea/LeetCode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/rhumtea/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -196,6 +197,7 @@
 | [2955-account-balance-after-rounded-purchase](https://github.com/rhumtea/LeetCode/tree/master/2955-account-balance-after-rounded-purchase) |
 | [2998-count-symmetric-integers](https://github.com/rhumtea/LeetCode/tree/master/2998-count-symmetric-integers) |
 | [3055-maximum-odd-binary-number](https://github.com/rhumtea/LeetCode/tree/master/3055-maximum-odd-binary-number) |
+| [3697-compute-decimal-representation](https://github.com/rhumtea/LeetCode/tree/master/3697-compute-decimal-representation) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/rhumtea/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/rhumtea/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
