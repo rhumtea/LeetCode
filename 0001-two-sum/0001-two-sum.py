@@ -1,10 +1,8 @@
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
-        mp = defaultdict(int)
+        a = {}
         for i in range(len(nums)):
-            check = target - nums[i]
-            if check not in mp:
-                mp[nums[i]] = i
+            if target - nums[i] not in a:
+                a[nums[i]] = i
             else:
-                return [i, mp[check]]
-            
+                return [i, a[target - nums[i]]]
