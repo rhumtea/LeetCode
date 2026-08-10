@@ -8,5 +8,4 @@ class Solution:
             t *= 10
             if n%10 != 0: res.append(n%10 * t)
             n //= 10
-        res.sort(reverse=True)
-        return res
+        return res[::-1]
