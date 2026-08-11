@@ -30,6 +30,7 @@
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/rhumtea/LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0417-pacific-atlantic-water-flow](https://github.com/rhumtea/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rhumtea/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0455-assign-cookies](https://github.com/rhumtea/LeetCode/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/rhumtea/LeetCode/tree/master/0463-island-perimeter) |
 | [0503-next-greater-element-ii](https://github.com/rhumtea/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/rhumtea/LeetCode/tree/master/0523-continuous-subarray-sum) |
@@ -315,6 +316,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/rhumtea/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rhumtea/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/rhumtea/LeetCode/tree/master/0392-is-subsequence) |
+| [0455-assign-cookies](https://github.com/rhumtea/LeetCode/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/rhumtea/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0861-flipping-an-image](https://github.com/rhumtea/LeetCode/tree/master/0861-flipping-an-image) |
 | [0908-middle-of-the-linked-list](https://github.com/rhumtea/LeetCode/tree/master/0908-middle-of-the-linked-list) |
@@ -447,6 +449,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/rhumtea/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rhumtea/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/rhumtea/LeetCode/tree/master/0389-find-the-difference) |
+| [0455-assign-cookies](https://github.com/rhumtea/LeetCode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/rhumtea/LeetCode/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/rhumtea/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/rhumtea/LeetCode/tree/master/0645-set-mismatch) |
@@ -528,6 +531,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/rhumtea/LeetCode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/rhumtea/LeetCode/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/rhumtea/LeetCode/tree/master/0605-can-place-flowers) |
 | [0680-valid-palindrome-ii](https://github.com/rhumtea/LeetCode/tree/master/0680-valid-palindrome-ii) |
@@ -939,4 +943,8 @@
 |  |
 | ------- |
 | [3898-find-the-degree-of-each-vertex](https://github.com/rhumtea/LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/rhumtea/LeetCode/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
