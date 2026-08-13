@@ -2,8 +2,7 @@ class Solution:
     def getLeastFrequentDigit(self, n: int) -> int:
         mp = defaultdict(int)
         while n > 0:
-            t = n % 10
-            mp[t] += 1
+            mp[n%10] += 1
             n //= 10
         min_freq = inf
         res = inf
