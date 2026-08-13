@@ -133,6 +133,7 @@
 | [3242-count-elements-with-maximum-frequency](https://github.com/rhumtea/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3324-split-the-array](https://github.com/rhumtea/LeetCode/tree/master/3324-split-the-array) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/rhumtea/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
+| [3663-find-the-least-frequent-digit](https://github.com/rhumtea/LeetCode/tree/master/3663-find-the-least-frequent-digit) |
 | [3668-restore-finishing-order](https://github.com/rhumtea/LeetCode/tree/master/3668-restore-finishing-order) |
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/rhumtea/LeetCode/tree/master/3678-smallest-absent-positive-greater-than-average) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/rhumtea/LeetCode/tree/master/3683-earliest-time-to-finish-one-task) |
@@ -203,6 +204,7 @@
 | [2955-account-balance-after-rounded-purchase](https://github.com/rhumtea/LeetCode/tree/master/2955-account-balance-after-rounded-purchase) |
 | [2998-count-symmetric-integers](https://github.com/rhumtea/LeetCode/tree/master/2998-count-symmetric-integers) |
 | [3055-maximum-odd-binary-number](https://github.com/rhumtea/LeetCode/tree/master/3055-maximum-odd-binary-number) |
+| [3663-find-the-least-frequent-digit](https://github.com/rhumtea/LeetCode/tree/master/3663-find-the-least-frequent-digit) |
 | [3697-compute-decimal-representation](https://github.com/rhumtea/LeetCode/tree/master/3697-compute-decimal-representation) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/rhumtea/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/rhumtea/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -284,6 +286,7 @@
 | [3324-split-the-array](https://github.com/rhumtea/LeetCode/tree/master/3324-split-the-array) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/rhumtea/LeetCode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/rhumtea/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
+| [3663-find-the-least-frequent-digit](https://github.com/rhumtea/LeetCode/tree/master/3663-find-the-least-frequent-digit) |
 | [3668-restore-finishing-order](https://github.com/rhumtea/LeetCode/tree/master/3668-restore-finishing-order) |
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/rhumtea/LeetCode/tree/master/3678-smallest-absent-positive-greater-than-average) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/rhumtea/LeetCode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
@@ -522,6 +525,7 @@
 | [3242-count-elements-with-maximum-frequency](https://github.com/rhumtea/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3324-split-the-array](https://github.com/rhumtea/LeetCode/tree/master/3324-split-the-array) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/rhumtea/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
+| [3663-find-the-least-frequent-digit](https://github.com/rhumtea/LeetCode/tree/master/3663-find-the-least-frequent-digit) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/rhumtea/LeetCode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/rhumtea/LeetCode/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/rhumtea/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
