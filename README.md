@@ -133,6 +133,7 @@
 | [3242-count-elements-with-maximum-frequency](https://github.com/rhumtea/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3324-split-the-array](https://github.com/rhumtea/LeetCode/tree/master/3324-split-the-array) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/rhumtea/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
+| [3606-coupon-code-validator](https://github.com/rhumtea/LeetCode/tree/master/3606-coupon-code-validator) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/rhumtea/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3637-trionic-array-i](https://github.com/rhumtea/LeetCode/tree/master/3637-trionic-array-i) |
 | [3663-find-the-least-frequent-digit](https://github.com/rhumtea/LeetCode/tree/master/3663-find-the-least-frequent-digit) |
@@ -288,6 +289,7 @@
 | [3324-split-the-array](https://github.com/rhumtea/LeetCode/tree/master/3324-split-the-array) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/rhumtea/LeetCode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/rhumtea/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
+| [3606-coupon-code-validator](https://github.com/rhumtea/LeetCode/tree/master/3606-coupon-code-validator) |
 | [3663-find-the-least-frequent-digit](https://github.com/rhumtea/LeetCode/tree/master/3663-find-the-least-frequent-digit) |
 | [3668-restore-finishing-order](https://github.com/rhumtea/LeetCode/tree/master/3668-restore-finishing-order) |
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/rhumtea/LeetCode/tree/master/3678-smallest-absent-positive-greater-than-average) |
@@ -440,6 +442,7 @@
 | [3019-furthest-point-from-origin](https://github.com/rhumtea/LeetCode/tree/master/3019-furthest-point-from-origin) |
 | [3055-maximum-odd-binary-number](https://github.com/rhumtea/LeetCode/tree/master/3055-maximum-odd-binary-number) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/rhumtea/LeetCode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
+| [3606-coupon-code-validator](https://github.com/rhumtea/LeetCode/tree/master/3606-coupon-code-validator) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/rhumtea/LeetCode/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/rhumtea/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3838-weighted-word-mapping](https://github.com/rhumtea/LeetCode/tree/master/3838-weighted-word-mapping) |
@@ -471,6 +474,7 @@
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/rhumtea/LeetCode/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/rhumtea/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/rhumtea/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3606-coupon-code-validator](https://github.com/rhumtea/LeetCode/tree/master/3606-coupon-code-validator) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/rhumtea/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/rhumtea/LeetCode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3731-find-missing-elements](https://github.com/rhumtea/LeetCode/tree/master/3731-find-missing-elements) |
