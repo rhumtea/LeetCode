@@ -6,8 +6,7 @@ class Solution:
                 sum_digit += n % 10
                 n //= 10
             return sum_digit
-        res = inf
         for i in range(len(nums)):
             if i == sum_digit(nums[i]):
-                res = min(res, i)
-        return -1 if res == inf else res
+                return i
+        return -1
