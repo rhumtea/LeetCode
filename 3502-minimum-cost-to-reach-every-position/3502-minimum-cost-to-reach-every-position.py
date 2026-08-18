@@ -3,9 +3,6 @@ class Solution:
         res = []
         min_cost = inf
         for i in range(len(cost)):
-            if min_cost > cost[i]:
-                res.append(cost[i])
-            else:
-                res.append(min_cost)
             min_cost = min(min_cost, cost[i])
+            res.append(min_cost)
         return res
