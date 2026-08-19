@@ -133,6 +133,7 @@
 | [3242-count-elements-with-maximum-frequency](https://github.com/rhumtea/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3324-split-the-array](https://github.com/rhumtea/LeetCode/tree/master/3324-split-the-array) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/rhumtea/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
+| [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/rhumtea/LeetCode/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3502-minimum-cost-to-reach-every-position](https://github.com/rhumtea/LeetCode/tree/master/3502-minimum-cost-to-reach-every-position) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/rhumtea/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/rhumtea/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -297,6 +298,7 @@
 | [3324-split-the-array](https://github.com/rhumtea/LeetCode/tree/master/3324-split-the-array) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/rhumtea/LeetCode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/rhumtea/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
+| [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/rhumtea/LeetCode/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/rhumtea/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/rhumtea/LeetCode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3606-coupon-code-validator](https://github.com/rhumtea/LeetCode/tree/master/3606-coupon-code-validator) |
@@ -572,6 +574,7 @@
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/rhumtea/LeetCode/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [2690-house-robber-iv](https://github.com/rhumtea/LeetCode/tree/master/2690-house-robber-iv) |
 | [3055-maximum-odd-binary-number](https://github.com/rhumtea/LeetCode/tree/master/3055-maximum-odd-binary-number) |
+| [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/rhumtea/LeetCode/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/rhumtea/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/rhumtea/LeetCode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3745-maximize-expression-of-three-elements](https://github.com/rhumtea/LeetCode/tree/master/3745-maximize-expression-of-three-elements) |
