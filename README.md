@@ -74,6 +74,7 @@
 | [1394-find-lucky-integer-in-an-array](https://github.com/rhumtea/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/rhumtea/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/rhumtea/LeetCode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/rhumtea/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/rhumtea/LeetCode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1582-design-browser-history](https://github.com/rhumtea/LeetCode/tree/master/1582-design-browser-history) |
 | [1603-running-sum-of-1d-array](https://github.com/rhumtea/LeetCode/tree/master/1603-running-sum-of-1d-array) |
@@ -201,6 +202,7 @@
 | [1013-fibonacci-number](https://github.com/rhumtea/LeetCode/tree/master/1013-fibonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/rhumtea/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1399-count-largest-group](https://github.com/rhumtea/LeetCode/tree/master/1399-count-largest-group) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/rhumtea/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/rhumtea/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1635-number-of-good-pairs](https://github.com/rhumtea/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/rhumtea/LeetCode/tree/master/1693-sum-of-all-odd-length-subarrays) |
@@ -601,6 +603,7 @@
 | [1321-get-equal-substrings-within-budget](https://github.com/rhumtea/LeetCode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1370-count-number-of-nice-subarrays](https://github.com/rhumtea/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/rhumtea/LeetCode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/rhumtea/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/rhumtea/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1603-running-sum-of-1d-array](https://github.com/rhumtea/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/rhumtea/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -783,6 +786,7 @@
 | [1013-fibonacci-number](https://github.com/rhumtea/LeetCode/tree/master/1013-fibonacci-number) |
 | [1117-as-far-from-land-as-possible](https://github.com/rhumtea/LeetCode/tree/master/1117-as-far-from-land-as-possible) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/rhumtea/LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/rhumtea/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/rhumtea/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/rhumtea/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2690-house-robber-iv](https://github.com/rhumtea/LeetCode/tree/master/2690-house-robber-iv) |
