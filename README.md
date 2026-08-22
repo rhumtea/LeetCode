@@ -84,6 +84,7 @@
 | [1675-magnetic-force-between-two-balls](https://github.com/rhumtea/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/rhumtea/LeetCode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1706-min-cost-to-connect-all-points](https://github.com/rhumtea/LeetCode/tree/master/1706-min-cost-to-connect-all-points) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/rhumtea/LeetCode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1762-furthest-building-you-can-reach](https://github.com/rhumtea/LeetCode/tree/master/1762-furthest-building-you-can-reach) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/rhumtea/LeetCode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/rhumtea/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -788,6 +789,7 @@
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/rhumtea/LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/rhumtea/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/rhumtea/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/rhumtea/LeetCode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/rhumtea/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2690-house-robber-iv](https://github.com/rhumtea/LeetCode/tree/master/2690-house-robber-iv) |
 ## Memoization
