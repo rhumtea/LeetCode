@@ -991,4 +991,8 @@
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/rhumtea/LeetCode/tree/master/0455-assign-cookies) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/rhumtea/LeetCode/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
