@@ -177,6 +177,7 @@
 | [3925-concatenate-array-with-reverse](https://github.com/rhumtea/LeetCode/tree/master/3925-concatenate-array-with-reverse) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/rhumtea/LeetCode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/rhumtea/LeetCode/tree/master/3940-limit-occurrences-in-sorted-array) |
+| [4020-elevator-requests-i](https://github.com/rhumtea/LeetCode/tree/master/4020-elevator-requests-i) |
 ## Math
 |  |
 | ------- |
@@ -400,6 +401,7 @@
 | [3842-toggle-light-bulbs](https://github.com/rhumtea/LeetCode/tree/master/3842-toggle-light-bulbs) |
 | [3921-score-validator](https://github.com/rhumtea/LeetCode/tree/master/3921-score-validator) |
 | [3925-concatenate-array-with-reverse](https://github.com/rhumtea/LeetCode/tree/master/3925-concatenate-array-with-reverse) |
+| [4020-elevator-requests-i](https://github.com/rhumtea/LeetCode/tree/master/4020-elevator-requests-i) |
 ## String
 |  |
 | ------- |
