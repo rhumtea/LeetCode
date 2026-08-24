@@ -1,18 +1,14 @@
 class Solution:
     def checkSubarraySum(self, nums: List[int], k: int) -> bool:
-        def prefix_sum(nums):
-            prefix = [0] * len(nums)
-            prefix[0] = nums[0]
-            for i in range(1, len(nums)):
-                prefix[i] = prefix[i-1] + nums[i]
-            return prefix
-        prefix = prefix_sum(nums)
-        mp = defaultdict(int)
-        mp[0] = -1
-        for r in range(len(prefix)):
-            # len of subarray >= 2 => find max of len of subarray for each prefix[r]%k
-            if prefix[r]%k in mp and r - mp[prefix[r]%k] >= 2:
-                return True
-            if prefix[r]%k not in mp:     
-                mp[prefix[r]%k] = r
+        nums = [0] + nums
+        pref = [0] * len(nums)
+        for i in range(1, len(nums)):
+            pref[i] = nums[i] + pref[i-1]
+        
+        mp = {}
+        mp[0] = 0
+        for r in range(1, len(pref)):
+            t = pref[r] % k
+            if t in mp and r - mp[t] >= 2: return True
+            if t not in mp: mp[t] = r
         return False
