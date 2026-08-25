@@ -3,7 +3,5 @@ class Solution:
         mid = len(nums) // 2
         mp = defaultdict(int)
         for i in range(len(nums)):
-            if i == mid: continue
             mp[nums[i]] += 1
-            if nums[mid] in mp: return False
-        return True
+        return True if mp[nums[mid]] == 1 else False
