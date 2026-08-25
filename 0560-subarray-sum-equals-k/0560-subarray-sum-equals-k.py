@@ -5,10 +5,11 @@ class Solution:
         for i in range(1, len(nums)):
             pref[i] = nums[i] + pref[i-1]
         res = 0
-        mp = defaultdict(int)
+        mp = {}
         mp[0] = 1
         for r in range(1, len(pref)):
             t = pref[r] - k
-            res += mp[t]
-            mp[pref[r]] += 1
+            if t in mp: res += mp[t]
+            if pref[r] not in mp: mp[pref[r]] = 1
+            else: mp[pref[r]] += 1
         return res 
