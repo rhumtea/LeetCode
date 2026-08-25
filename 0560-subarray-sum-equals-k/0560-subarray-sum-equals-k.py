@@ -4,12 +4,11 @@ class Solution:
         pref = [0] * len(nums)
         for i in range(1, len(nums)):
             pref[i] = nums[i] + pref[i-1]
-
-        count = defaultdict(int)
-        count[0] = 1
         res = 0
-        for r in range(1,  len(nums)):
+        mp = defaultdict(int)
+        mp[0] = 1
+        for r in range(1, len(pref)):
             t = pref[r] - k
-            res += count[t]
-            count[pref[r]] += 1
-        return res
+            res += mp[t]
+            mp[pref[r]] += 1
+        return res 
