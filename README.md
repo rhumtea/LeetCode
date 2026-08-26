@@ -178,6 +178,7 @@
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/rhumtea/LeetCode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/rhumtea/LeetCode/tree/master/3940-limit-occurrences-in-sorted-array) |
 | [3978-unique-middle-element](https://github.com/rhumtea/LeetCode/tree/master/3978-unique-middle-element) |
+| [4010-maximize-pair-strength-using-gcd](https://github.com/rhumtea/LeetCode/tree/master/4010-maximize-pair-strength-using-gcd) |
 | [4020-elevator-requests-i](https://github.com/rhumtea/LeetCode/tree/master/4020-elevator-requests-i) |
 ## Math
 |  |
@@ -225,6 +226,7 @@
 | [3697-compute-decimal-representation](https://github.com/rhumtea/LeetCode/tree/master/3697-compute-decimal-representation) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/rhumtea/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/rhumtea/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
+| [4010-maximize-pair-strength-using-gcd](https://github.com/rhumtea/LeetCode/tree/master/4010-maximize-pair-strength-using-gcd) |
 ## Hash Table
 |  |
 | ------- |
@@ -593,6 +595,7 @@
 | [3745-maximize-expression-of-three-elements](https://github.com/rhumtea/LeetCode/tree/master/3745-maximize-expression-of-three-elements) |
 | [3833-count-dominant-indices](https://github.com/rhumtea/LeetCode/tree/master/3833-count-dominant-indices) |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/rhumtea/LeetCode/tree/master/3880-minimum-absolute-difference-between-two-values) |
+| [4010-maximize-pair-strength-using-gcd](https://github.com/rhumtea/LeetCode/tree/master/4010-maximize-pair-strength-using-gcd) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -807,6 +810,7 @@
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/rhumtea/LeetCode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [2831-number-of-beautiful-pairs](https://github.com/rhumtea/LeetCode/tree/master/2831-number-of-beautiful-pairs) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/rhumtea/LeetCode/tree/master/3591-check-if-any-element-has-prime-frequency) |
+| [4010-maximize-pair-strength-using-gcd](https://github.com/rhumtea/LeetCode/tree/master/4010-maximize-pair-strength-using-gcd) |
 ## Queue
 |  |
 | ------- |
