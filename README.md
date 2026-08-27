@@ -371,6 +371,7 @@
 | [0729-my-calendar-i](https://github.com/rhumtea/LeetCode/tree/master/0729-my-calendar-i) |
 | [0907-koko-eating-bananas](https://github.com/rhumtea/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/rhumtea/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [1208-get-equal-substrings-within-budget](https://github.com/rhumtea/LeetCode/tree/master/1208-get-equal-substrings-within-budget) |
 | [1321-get-equal-substrings-within-budget](https://github.com/rhumtea/LeetCode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/rhumtea/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1675-magnetic-force-between-two-balls](https://github.com/rhumtea/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
@@ -434,6 +435,7 @@
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/rhumtea/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1032-satisfiability-of-equality-equations](https://github.com/rhumtea/LeetCode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/rhumtea/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [1208-get-equal-substrings-within-budget](https://github.com/rhumtea/LeetCode/tree/master/1208-get-equal-substrings-within-budget) |
 | [1297-maximum-number-of-balloons](https://github.com/rhumtea/LeetCode/tree/master/1297-maximum-number-of-balloons) |
 | [1304-longest-happy-string](https://github.com/rhumtea/LeetCode/tree/master/1304-longest-happy-string) |
 | [1308-smallest-string-with-swaps](https://github.com/rhumtea/LeetCode/tree/master/1308-smallest-string-with-swaps) |
@@ -608,6 +610,7 @@
 | [0724-find-pivot-index](https://github.com/rhumtea/LeetCode/tree/master/0724-find-pivot-index) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/rhumtea/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/rhumtea/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [1208-get-equal-substrings-within-budget](https://github.com/rhumtea/LeetCode/tree/master/1208-get-equal-substrings-within-budget) |
 | [1321-get-equal-substrings-within-budget](https://github.com/rhumtea/LeetCode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1370-count-number-of-nice-subarrays](https://github.com/rhumtea/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/rhumtea/LeetCode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
@@ -718,6 +721,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/rhumtea/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0940-fruit-into-baskets](https://github.com/rhumtea/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/rhumtea/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [1208-get-equal-substrings-within-budget](https://github.com/rhumtea/LeetCode/tree/master/1208-get-equal-substrings-within-budget) |
 | [1321-get-equal-substrings-within-budget](https://github.com/rhumtea/LeetCode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1370-count-number-of-nice-subarrays](https://github.com/rhumtea/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/rhumtea/LeetCode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
