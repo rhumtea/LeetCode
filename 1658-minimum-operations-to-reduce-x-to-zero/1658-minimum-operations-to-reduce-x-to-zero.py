@@ -1,17 +1,16 @@
 class Solution:
     def minOperations(self, nums: List[int], x: int) -> int:
+        res = inf
         n = len(nums)
-        nums = [0] + nums
-        pref = [0] * len(nums)
-        for i in range(1, len(nums)):
-            pref[i] = nums[i] + pref[i-1]
-        k = sum(nums) - x
-        if k == 0: return n
-        res = -1
-        mp = {}
-        mp[0] = 0
-        for r in range(1, len(pref)):
-            t = pref[r] - k
-            if t in mp: res = max(res, r - mp[t])
-            if pref[r] not in mp: mp[pref[r]] = r
-        return -1 if res == -1 else n-res
+        nums  = [0] + nums
+        w = 0
+        l = 1
+        summ = sum(nums)
+        for r in range(1, n+1):
+            w +=  nums[r]
+            while l <= r and w  > summ - x:
+                w -= nums[l]
+                l += 1
+            if w == summ - x:
+                res = min(res, n -(r-l+1))
+        return -1 if  res == inf  else res
