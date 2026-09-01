@@ -1,23 +1,14 @@
 class Solution:
     def findAnagrams(self, s: str, p: str) -> List[int]:
-        if len(s) < len(p):
-            return []
+        ns, np = len(s), len(p)
+        mp_p = Counter(p)
+        w = Counter(s[:np-1])
         res = []
-        w = defaultdict(int)
-        mp = defaultdict(int)
-        n = len(p)
-        for i in range(n):
-            mp[p[i]] += 1
-            w[s[i]] += 1
-        if w == mp:
-            res.append(0)
         l = 0
-        for i in range(n, len(s)):
-            w[s[i]] += 1
+        for r in range(np-1, ns):
+            w[s[r]] += 1
+            if w == mp_p: res.append(l)
             w[s[l]] -= 1
-            if w[s[l]] == 0:
-                w.pop(s[l])
+            if w[s[l]] == 0: del w[s[l]]
             l += 1
-            if w == mp:
-                res.append(l)
         return res
