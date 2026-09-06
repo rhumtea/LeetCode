@@ -182,6 +182,7 @@
 | [3940-limit-occurrences-in-sorted-array](https://github.com/rhumtea/LeetCode/tree/master/3940-limit-occurrences-in-sorted-array) |
 | [3978-unique-middle-element](https://github.com/rhumtea/LeetCode/tree/master/3978-unique-middle-element) |
 | [3982-sum-of-integers-with-maximum-digit-range](https://github.com/rhumtea/LeetCode/tree/master/3982-sum-of-integers-with-maximum-digit-range) |
+| [3996-even-number-of-knight-moves](https://github.com/rhumtea/LeetCode/tree/master/3996-even-number-of-knight-moves) |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/rhumtea/LeetCode/tree/master/4010-maximize-pair-strength-using-gcd) |
 | [4020-elevator-requests-i](https://github.com/rhumtea/LeetCode/tree/master/4020-elevator-requests-i) |
 | [4024-nearest-available-drone](https://github.com/rhumtea/LeetCode/tree/master/4024-nearest-available-drone) |
@@ -233,6 +234,7 @@
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/rhumtea/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/rhumtea/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3982-sum-of-integers-with-maximum-digit-range](https://github.com/rhumtea/LeetCode/tree/master/3982-sum-of-integers-with-maximum-digit-range) |
+| [3996-even-number-of-knight-moves](https://github.com/rhumtea/LeetCode/tree/master/3996-even-number-of-knight-moves) |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/rhumtea/LeetCode/tree/master/4010-maximize-pair-strength-using-gcd) |
 ## Hash Table
 |  |
