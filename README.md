@@ -112,6 +112,7 @@
 | [2429-design-a-food-rating-system](https://github.com/rhumtea/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2433-best-poker-hand](https://github.com/rhumtea/LeetCode/tree/master/2433-best-poker-hand) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/rhumtea/LeetCode/tree/master/2445-reachable-nodes-with-restrictions) |
+| [2537-count-the-number-of-good-subarrays](https://github.com/rhumtea/LeetCode/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2594-count-pairs-of-similar-strings](https://github.com/rhumtea/LeetCode/tree/master/2594-count-pairs-of-similar-strings) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/rhumtea/LeetCode/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/rhumtea/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -307,6 +308,7 @@
 | [2433-best-poker-hand](https://github.com/rhumtea/LeetCode/tree/master/2433-best-poker-hand) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/rhumtea/LeetCode/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/rhumtea/LeetCode/tree/master/2532-remove-letter-to-equalize-frequency) |
+| [2537-count-the-number-of-good-subarrays](https://github.com/rhumtea/LeetCode/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2594-count-pairs-of-similar-strings](https://github.com/rhumtea/LeetCode/tree/master/2594-count-pairs-of-similar-strings) |
 | [2634-minimum-common-value](https://github.com/rhumtea/LeetCode/tree/master/2634-minimum-common-value) |
 | [2831-number-of-beautiful-pairs](https://github.com/rhumtea/LeetCode/tree/master/2831-number-of-beautiful-pairs) |
@@ -751,6 +753,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/rhumtea/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/rhumtea/LeetCode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/rhumtea/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2537-count-the-number-of-good-subarrays](https://github.com/rhumtea/LeetCode/tree/master/2537-count-the-number-of-good-subarrays) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/rhumtea/LeetCode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 ## Heap (Priority Queue)
 |  |
