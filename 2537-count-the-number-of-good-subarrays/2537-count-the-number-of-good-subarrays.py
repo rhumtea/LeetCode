@@ -1,21 +1,19 @@
 class Solution:
     def countGood(self, nums: List[int], k: int) -> int:
-        def count_pair(n):
-            return n * (n-1) // 2
+        def count_pairs(x):
+            return x * (x-1) // 2
+
         w = defaultdict(int)
-        pairs = 0
-        res = 0
-        l = 0
-        for r in range(len(nums)):
-            t = nums[r]
-            pairs -= count_pair(w[t])
-            w[t] += 1
-            pairs += count_pair(w[t])
+        res = pairs = l = 0
+        n = len(nums)
+        for r in range(n):
+            pairs -= count_pairs(w[nums[r]])
+            w[nums[r]] += 1
+            pairs += count_pairs(w[nums[r]])
             while pairs >= k:
-                res += len(nums) - r
-                a = nums[l]
-                pairs -= count_pair(w[a])
-                w[a] -= 1
-                pairs += count_pair(w[a])
+                res += n - r
+                pairs -= count_pairs(w[nums[l]])
+                w[nums[l]] -= 1
+                pairs += count_pairs(w[nums[l]])
                 l += 1
         return res
