@@ -139,6 +139,7 @@
 | [3242-count-elements-with-maximum-frequency](https://github.com/rhumtea/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3324-split-the-array](https://github.com/rhumtea/LeetCode/tree/master/3324-split-the-array) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/rhumtea/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/rhumtea/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/rhumtea/LeetCode/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3502-minimum-cost-to-reach-every-position](https://github.com/rhumtea/LeetCode/tree/master/3502-minimum-cost-to-reach-every-position) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/rhumtea/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -320,6 +321,7 @@
 | [3324-split-the-array](https://github.com/rhumtea/LeetCode/tree/master/3324-split-the-array) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/rhumtea/LeetCode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/rhumtea/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/rhumtea/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/rhumtea/LeetCode/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/rhumtea/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/rhumtea/LeetCode/tree/master/3591-check-if-any-element-has-prime-frequency) |
@@ -612,6 +614,7 @@
 |  |
 | ------- |
 | [2998-count-symmetric-integers](https://github.com/rhumtea/LeetCode/tree/master/2998-count-symmetric-integers) |
+| [3483-unique-3-digit-even-numbers](https://github.com/rhumtea/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3745-maximize-expression-of-three-elements](https://github.com/rhumtea/LeetCode/tree/master/3745-maximize-expression-of-three-elements) |
 | [3833-count-dominant-indices](https://github.com/rhumtea/LeetCode/tree/master/3833-count-dominant-indices) |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/rhumtea/LeetCode/tree/master/3880-minimum-absolute-difference-between-two-values) |
@@ -709,6 +712,7 @@
 | [0234-palindrome-linked-list](https://github.com/rhumtea/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0342-power-of-four](https://github.com/rhumtea/LeetCode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/rhumtea/LeetCode/tree/master/1013-fibonacci-number) |
+| [3483-unique-3-digit-even-numbers](https://github.com/rhumtea/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Stack
 |  |
 | ------- |
