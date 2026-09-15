@@ -139,6 +139,7 @@
 | [3242-count-elements-with-maximum-frequency](https://github.com/rhumtea/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3324-split-the-array](https://github.com/rhumtea/LeetCode/tree/master/3324-split-the-array) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/rhumtea/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
+| [3477-fruits-into-baskets-ii](https://github.com/rhumtea/LeetCode/tree/master/3477-fruits-into-baskets-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/rhumtea/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/rhumtea/LeetCode/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3502-minimum-cost-to-reach-every-position](https://github.com/rhumtea/LeetCode/tree/master/3502-minimum-cost-to-reach-every-position) |
@@ -404,6 +405,7 @@
 | [2690-house-robber-iv](https://github.com/rhumtea/LeetCode/tree/master/2690-house-robber-iv) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/rhumtea/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/rhumtea/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3477-fruits-into-baskets-ii](https://github.com/rhumtea/LeetCode/tree/master/3477-fruits-into-baskets-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/rhumtea/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Simulation
 |  |
@@ -418,6 +420,7 @@
 | [2639-separate-the-digits-in-an-array](https://github.com/rhumtea/LeetCode/tree/master/2639-separate-the-digits-in-an-array) |
 | [2886-faulty-keyboard](https://github.com/rhumtea/LeetCode/tree/master/2886-faulty-keyboard) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/rhumtea/LeetCode/tree/master/3220-count-tested-devices-after-test-operations) |
+| [3477-fruits-into-baskets-ii](https://github.com/rhumtea/LeetCode/tree/master/3477-fruits-into-baskets-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/rhumtea/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/rhumtea/LeetCode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3701-compute-alternating-sum](https://github.com/rhumtea/LeetCode/tree/master/3701-compute-alternating-sum) |
@@ -798,6 +801,7 @@
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/rhumtea/LeetCode/tree/master/0729-my-calendar-i) |
+| [3477-fruits-into-baskets-ii](https://github.com/rhumtea/LeetCode/tree/master/3477-fruits-into-baskets-ii) |
 ## Ordered Set
 |  |
 | ------- |
@@ -805,6 +809,7 @@
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/rhumtea/LeetCode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2413-smallest-number-in-infinite-set](https://github.com/rhumtea/LeetCode/tree/master/2413-smallest-number-in-infinite-set) |
 | [2429-design-a-food-rating-system](https://github.com/rhumtea/LeetCode/tree/master/2429-design-a-food-rating-system) |
+| [3477-fruits-into-baskets-ii](https://github.com/rhumtea/LeetCode/tree/master/3477-fruits-into-baskets-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/rhumtea/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Monotonic Stack
 |  |
