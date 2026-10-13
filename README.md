@@ -191,6 +191,7 @@
 | [4010-maximize-pair-strength-using-gcd](https://github.com/rhumtea/LeetCode/tree/master/4010-maximize-pair-strength-using-gcd) |
 | [4020-elevator-requests-i](https://github.com/rhumtea/LeetCode/tree/master/4020-elevator-requests-i) |
 | [4024-nearest-available-drone](https://github.com/rhumtea/LeetCode/tree/master/4024-nearest-available-drone) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/rhumtea/LeetCode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Math
 |  |
 | ------- |
@@ -342,6 +343,7 @@
 | [3866-first-unique-even-element](https://github.com/rhumtea/LeetCode/tree/master/3866-first-unique-even-element) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/rhumtea/LeetCode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/rhumtea/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/rhumtea/LeetCode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Two Pointers
 |  |
 | ------- |
@@ -429,6 +431,7 @@
 | [3921-score-validator](https://github.com/rhumtea/LeetCode/tree/master/3921-score-validator) |
 | [3925-concatenate-array-with-reverse](https://github.com/rhumtea/LeetCode/tree/master/3925-concatenate-array-with-reverse) |
 | [4020-elevator-requests-i](https://github.com/rhumtea/LeetCode/tree/master/4020-elevator-requests-i) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/rhumtea/LeetCode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## String
 |  |
 | ------- |
@@ -530,6 +533,7 @@
 | [3778-transform-array-by-parity](https://github.com/rhumtea/LeetCode/tree/master/3778-transform-array-by-parity) |
 | [3842-toggle-light-bulbs](https://github.com/rhumtea/LeetCode/tree/master/3842-toggle-light-bulbs) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/rhumtea/LeetCode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/rhumtea/LeetCode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Counting
 |  |
 | ------- |
@@ -591,6 +595,7 @@
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/rhumtea/LeetCode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/rhumtea/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3978-unique-middle-element](https://github.com/rhumtea/LeetCode/tree/master/3978-unique-middle-element) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/rhumtea/LeetCode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Greedy
 |  |
 | ------- |
@@ -779,6 +784,7 @@
 | [2413-smallest-number-in-infinite-set](https://github.com/rhumtea/LeetCode/tree/master/2413-smallest-number-in-infinite-set) |
 | [2429-design-a-food-rating-system](https://github.com/rhumtea/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/rhumtea/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/rhumtea/LeetCode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Quickselect
 |  |
 | ------- |
@@ -811,6 +817,7 @@
 | [2429-design-a-food-rating-system](https://github.com/rhumtea/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [3477-fruits-into-baskets-ii](https://github.com/rhumtea/LeetCode/tree/master/3477-fruits-into-baskets-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/rhumtea/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/rhumtea/LeetCode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Monotonic Stack
 |  |
 | ------- |
