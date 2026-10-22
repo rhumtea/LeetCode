@@ -13,4 +13,3 @@ class Solution:
             if pre[r] not in cnt: cnt[pre[r]] = 1
             else: cnt[pre[r]] += 1
         return res
-
