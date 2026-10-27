@@ -191,6 +191,7 @@
 | [4010-maximize-pair-strength-using-gcd](https://github.com/rhumtea/LeetCode/tree/master/4010-maximize-pair-strength-using-gcd) |
 | [4020-elevator-requests-i](https://github.com/rhumtea/LeetCode/tree/master/4020-elevator-requests-i) |
 | [4024-nearest-available-drone](https://github.com/rhumtea/LeetCode/tree/master/4024-nearest-available-drone) |
+| [4061-minimum-queen-moves-to-reach-target](https://github.com/rhumtea/LeetCode/tree/master/4061-minimum-queen-moves-to-reach-target) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/rhumtea/LeetCode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Math
 |  |
@@ -242,6 +243,7 @@
 | [3982-sum-of-integers-with-maximum-digit-range](https://github.com/rhumtea/LeetCode/tree/master/3982-sum-of-integers-with-maximum-digit-range) |
 | [3996-even-number-of-knight-moves](https://github.com/rhumtea/LeetCode/tree/master/3996-even-number-of-knight-moves) |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/rhumtea/LeetCode/tree/master/4010-maximize-pair-strength-using-gcd) |
+| [4061-minimum-queen-moves-to-reach-target](https://github.com/rhumtea/LeetCode/tree/master/4061-minimum-queen-moves-to-reach-target) |
 ## Hash Table
 |  |
 | ------- |
