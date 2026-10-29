@@ -5,8 +5,7 @@ class Solution:
         for i in range(1, len(nums)):
             pre[i] = nums[i] + pre[i-1]
         mp = defaultdict(int)
-        mp[0] = 0
-        res = 0
+        mp[0], res = 0, 0
         for r in range(1, len(pre)):
             t = r - 2 * pre[r]
             if t in mp: res = max(res, r - mp[t])
